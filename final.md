@@ -10,11 +10,11 @@ See [here](https://docs.google.com/spreadsheets/d/12eF1q4HXe_D7Pig2947wOGnLPG8hf
 
 **Key Due Dates**:
 
-* 3-minute recorded presentations: April 26th, 2023, Wed, in class
+* 3-minute recorded presentations: TBD
 
-* 15-minute presentations in discussion: April 27th and 28th, 2023 in discussion section 
+* 15-minute presentations in discussion: TBD 
 
-* Written report and other deliverables: May 7th, Sunday, submission should be done in Canvas
+* Written report and other deliverables: TBD
 
 
 ### Zimmerome Project Summary
@@ -29,6 +29,7 @@ The final project will involve teams of students performing analysis on Carl Zim
 ### Previous Years
 You can get a flavor for the Final Project by looking at the project from previous years, linked below.
 
+[Final Project from Spring 2023](https://cbb752b23.gersteinlab.org/final)  
 [Final Project from Spring 2022](http://cbb752b22.gersteinlab.org/final)  
 [Final Project from Spring 2021](http://cbb752b21.gersteinlab.org/final)  
 [Final Project from Spring 2020](http://cbb752b20.gersteinlab.org/final)    
