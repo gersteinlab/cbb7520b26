@@ -11,8 +11,8 @@ This course aims to equip students with some of the concepts and skills relevant
 
 #### Course Survey
 
-If you are taking the class, please fill this out by the first day of class (Jan 18th):
-[https://forms.gle/un4731Na28jA7yPk6](https://forms.gle/un4731Na28jA7yPk6)
+If you are taking the class, please fill this out by the first day of class (Due date TBA):
+Link TBA
 
 ### Overall Flow of the Class
 
@@ -32,10 +32,10 @@ If you are taking the class, please fill this out by the first day of class (Jan
 
 | Session | Time | Location | 
 | --- | --- | --- | 
-| Section 1 | Thurs 1:00-2:00 PM | YSB352 |
-| Section 2 | Fri 10:00-11:00 AM  | BASS405 | 
-| Section 3 | Fri 10:00-11:00 AM | YSB352 | 
-| Section 4 | Fri 1:00-2:00 PM  | YSB352 |
+| Section 1 | TBD | YSB352 |
+| Section 2 | TBD  | BASS405 | 
+| Section 3 | TBD | YSB352 | 
+| Section 4 | TBD  | YSB352 |
 
 
 
