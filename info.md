@@ -34,21 +34,21 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
-| Eric Ni	| EN  | Bass 437	| eric.ni (at) yale.edu |
-| Jason Liu   | JL | Bass 437	| jason.j.liu (at) yale.edu |
-| Yuhang Chen	| YC  | Bass 437	| yuhang.chen (at) yale.edu |
-| Donglu Bai	| DB  | Bass 437	| donglu.bai (at) yale.edu |
+| Suchen Zheng	| SZ  | 100 College St (9/F)	| suchen.zheng (at) yale.edu |
+| Michelle Yu   | MY  | 100 College St (9/F)	| michelle.yu (at) yale.edu |
+| Yunzhe Jiang	| YJ  | 100 College St (9/F)	| yunzhe.jiang (at) yale.edu |
+| Donglu Bai	| DB  | 100 College St (9/F)	| donglu.bai (at) yale.edu |
 
 ## Piazza
 
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and the TAs. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. 
 
-Find our class page at: [Link to Piazza](https://piazza.com/yale/spring2023/mbb452mcdb452mbb752mcdb752cbb752mbb753mbb754cpsc752sds352)
+Find our class page at: [Link to Piazza]() (TBA)
 
 ## General Course Policy
 
 ### First Meeting
-The first lecture will be held on Wed. Jan 18th, 2022. 
+The first lecture will be held on [TBA]. 
 
 ### Grading Policy
 We expect that this year the weighting scheme will be to a first approximation:
