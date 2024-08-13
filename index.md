@@ -98,7 +98,9 @@ For references, please refer the previous [Quiz Archive](/quiz)
 - There will be equivalent two homework assignments, particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
 ## Pages from previous years
-- 2023 Spring is the 26th time Bioinformatics has been taught at Yale. Pages for the 25 previous iterations of the class are available. Look at how things evolve! - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/courseDetail?termCode=202301&courseNumber=752&subjectCode=CB%26B&numDays=7)
+- 2025 Spring is the 27th time Bioinformatics has been taught at Yale. Pages for the 25 previous iterations of the class are available. Look at how things evolve!
+- This course is not offered in 2024
+- [2023 Spring](https://cbb752b23.gersteinlab.org/)  - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/courseDetail?termCode=202301&courseNumber=752&subjectCode=CB%26B&numDays=7)
 - [2022 Spring](http://cbb752b22.gersteinlab.org) - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/courseDetail?termCode=202201&courseNumber=752&subjectCode=CB%26B&numDays=7)
 - [2021 Spring](http://cbb752b21.gersteinlab.org) - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/ocsCourseDetail?termCode=202101&courseNumbers=CB%26B+752%2FCPSC+752%2FMB%26B+452%2FMB%26B+752%2FMB%26B+753%2FMB%26B+754%2FMCDB+452%2FMCDB+752%2FS%26DS+352&subjectCode=CB%26B)
 - [2020 Spring](http://cbb752b20.gersteinlab.org) - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/ocsCourseDetail?termCode=202001&courseNumbers=CB%26B+752%2FCPSC+752%2FMB%26B+452%2FMB%26B+752%2FMB%26B+753%2FMB%26B+754%2FMCDB+452%2FMCDB+752%2FS%26DS+352&subjectCode=CB%26B)
