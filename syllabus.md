@@ -43,8 +43,7 @@ Please see [last year's syllabus](http://cbb752b22.gersteinlab.org/syllabus) (wi
 | 4/26 | Final Presentations                                                          |                                                                                                              |                                                                  |                                                                                        |
 | 4/28 | \*YALE\* Classes end; Reading period begins                                  |                                                                                                              |                                                                  |                                                                                        |
 | 5/4  | \*YALE\* Final examinations begin                                            |                                                                                                              |                                                                  |                                                                                        |
-| 5/10 | \*YALE\* Final examinations end                                              |                                                                                                              |                                                                  |                                                                                        |
-
+| 5/10 | \*YALE\* Final examinations end                                              |                                                                                                              |                                                                  |
 
 ### Lecture Slide Pack
 
