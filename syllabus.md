@@ -8,41 +8,41 @@ layout: page
 
 Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (with slide packs at the bottom) for previews for this year’s lectures, which will be slightly different. For this year, an updated slide pack will be posted after the lecture. (If it is substantially different from '22, an updated video will also be posted.) Video recordings for this year's lectures can be found in the Media Library tab in Canvas.
 
-| Date     | Topic                                                                      | This year’s lecture | [Last year’s lecture](http://cbb752b22.gersteinlab.org/syllabus) | Comment |
-| -------- | -------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------- | ------- |
-| 1/13     | \*YALE\* Spring term classes begin, 8.20 a.m.                              |                     |                                                                  |         |
-| 1/13     | Introduction                                                               |                     |                                                                  |         |
-| 1/15     | DATA - Proteomics I                                                        |                     |                                                                  |         |
-| 1/22     | DATA - Proteomics II                                                       |                     |                                                                  |         |
-| 1/27     | DATA - Genomics I                                                          |                     |                                                                  |         |
-| 1/29     | DATA - Genomics II                                                         |                     |                                                                  |         |
-| 2/3      | DATA - Knowledge Representation & Databases                                |                     |                                                                  |         |
-| 2/5      | MINING - Personal Genomes + Seq. Comparison + Multi-seq Alignment          |                     |                                                                  |         |
-| 2/10     | MINING - Fast Alignment + Variant Calling (incl. a focused section on SVs) |                     |                                                                  |         |
-| 2/12     | MINING - Basic Multi-Omics + Supervised Mining #1                          |                     |                                                                  |         |
-| 2/17     | Quiz on 1st Half                                                           |                     |                                                                  |         |
-| 2/19     | MINING - Supervised Mining #2 + DL fundamentals #1                         |                     |                                                                  |         |
-| 2/24     | MINING - DL fundamentals #2 + Unsupervised Mining #1                       |                     |                                                                  |         |
-| 2/26     | MINING - Unsupervised Mining #2 + Single-Cell Analysis #1                  |                     |                                                                  |         |
-| 3/3      | MINING - Single-Cell Analysis #2 + Medical Image Analysis                  |                     |                                                                  |         |
-| 3/5 | MINING - Network Analysis                                                  |                     |                                                                  |         |
-|      |                                                                              |                     |                                                                  |         |
-|      |                                                                              |                     |                                                                  |         |
-| 3/7      | Spring break begins                                                        |                     |                                                                  |         |
-|      |                                                                              |                     |                                                                  |
-| 3/24     | MINING - Privacy                                                           |                     |                                                                  |         |
-| 3/26     | MINING/MODELING - Deep Learning Advanced I                                 |                     |                                                                  |         |
-| 3/31     | MINING/MODELING - Deep Learning Advanced II                                |                     |                                                                  |         |
-| 4/2      | MODELING - Protein Simulation I                                            |                     |                                                                  |         |
-| 4/7      | MODELING - Protein Simulation II                                           |                     |                                                                  |         |
-| 4/9      | MODELING - Protein Simulation III                                          |                     |                                                                  |         |
-| 4/14     | MODELING - Protein Simulation IV                                           |                     |                                                                  |         |
-| 4/16     | MODELING - Protein Simulation V                                            |                     |                                                                  |         |
-| 4/21     | Quiz on 2nd Half                                                           |                     |                                                                  |         |
-| 4/23     | Final Presentations                                                        |                     |                                                                  |         |
-| 4/25     | \*YALE\* Classes end; Reading period begins                                |                     |                                                                  |         |
-| 5/1 | \*YALE\* Final examinations begin                                          |                     |                                                                  |         |
-| 5/7      | \*YALE\* Final examinations end                                            |                     |                                                                  |
+| Date | Topic                                                                      | This year’s lecture | [Last year’s lecture](https://cbb752b23.gersteinlab.org/syllabus) | Comment |
+| ---- | -------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------- | ------- |
+| 1/13 | \*YALE\* Spring term classes begin, 8.20 a.m.                              |                     |                                                                   |         |
+| 1/13 | Introduction                                                               |                     | 23i1                                                              |         |
+| 1/15 | DATA - Proteomics I                                                        |                     | 23d3                                                              |         |
+| 1/22 | DATA - Proteomics II                                                       |                     | 23d4                                                              |         |
+| 1/27 | DATA - Genomics I                                                          |                     | 23d1                                                              |         |
+| 1/29 | DATA - Genomics II                                                         |                     | 23d2                                                              |         |
+| 2/3  | DATA - Knowledge Representation & Databases                                |                     | 23d5                                                              |         |
+| 2/5  | MINING - Personal Genomes + Seq. Comparison + Multi-seq Alignment          |                     | 23i2a, 23m3, 23m4                                                 |         |
+| 2/10 | MINING - Fast Alignment + Variant Calling (incl. a focused section on SVs) |                     | 23m5,23m6a                                                        |         |
+| 2/12 | MINING - Basic Multi-Omics + Supervised Mining #1                          |                     | 23m6b,23m7,23m8a                                                  |         |
+| 2/17 | Quiz on 1st Half                                                           |                     |                                                                   |         |
+| 2/19 | MINING - Supervised Mining #2 + Deep Learning Fundamentals #1              |                     | 23m8b,23m8c                                                       |         |
+| 2/24 | MINING - Deep Learning Fundamentals #2 + Unsupervised Mining #1            |                     | 23m9a,23m9c                                                       |         |
+| 2/26 | MINING - Unsupervised Mining #2 + Single-Cell Analysis #1                  |                     | 23m9d, 23m9e                                                      |         |
+| 3/3  | MINING - Single-Cell Analysis #2 + Medical Image Analysis                  |                     | 23t1                                                              |         |
+| 3/5  | MINING - Network Analysis                                                  |                     | 23m10a, 23m10b, 23m10c, 23m10d, 23m10e                            |         |
+|      |                                                                            |                     |                                                                   |         |
+|      |                                                                            |                     |                                                                   |         |
+| 3/7  | Spring break begins                                                        |                     |                                                                   |         |
+|      |                                                                            |                     |                                                                   |         |
+| 3/24 | MINING - Privacy                                                           |                     | 23t2                                                              |         |
+| 3/26 | MINING/MODELING - Deep Learning Advanced I                                 |                     | 23m12a                                                            |         |
+| 3/31 | MINING/MODELING - Deep Learning Advanced II                                |                     | 23m12b                                                            |         |
+| 4/2  | SIMULATION - Protein Simulation I                                          |                     | 23s1                                                              |         |
+| 4/7  | SIMULATION - Protein Simulation II                                         |                     | 23s2                                                              |         |
+| 4/9  | SIMULATION - Protein Simulation III                                        |                     | 23s3                                                              |         |
+| 4/14 | SIMULATION - Protein Simulation IV                                         |                     | 23s4                                                              |         |
+| 4/16 | SIMULATION - Protein Simulation V                                          |                     |                                                                   |         |
+| 4/21 | Quiz on 2nd Half                                                           |                     |                                                                   |         |
+| 4/23 | Final Presentations                                                        |                     |                                                                   |         |
+| 4/25 | \*YALE\* Classes end; Reading period begins                                |                     |                                                                   |         |
+| 5/1  | \*YALE\* Final examinations begin                                          |                     |                                                                   |         |
+| 5/7  | \*YALE\* Final examinations end                                            |                     |                                                                   |
 
 
 ### Lecture Slide Pack
