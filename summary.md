@@ -9,7 +9,7 @@ layout: page
 
 A lecture summary is a quick, organized way to capture the most important points from a lecture. It’s designed to help you and your peers review big ideas, key terms, and examples for exams and future projects. To make this easier, you’ll work in small groups, with each group responsible for summarizing a lecture.
 
-Each lecture may include one or multiple modules. If a lecture has just one module, your group will prepare a single summary; if there are multiple modules, your group will create a summary for each one. Since all lectures take about the same time, each group will cover a similar amount of content, regardless of how many summaries they prepare.
+Each lecture may have one or several modules. For a single-module lecture, your group will write one summary; for multiple modules, you’ll write one summary per module. Since lectures are about the same length, each group will handle a similar amount of content.
 
 Note: No need to create your own document from scratch! We’ve set up a template Google Doc for each lecture summary, which you’ll find in the next section. Just open the template for your assigned lecture and start filling it in.
 
