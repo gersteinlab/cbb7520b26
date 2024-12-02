@@ -53,33 +53,21 @@ Ready to put together a lecture summary? It’s simpler than it seems! Just foll
 ## Rubric
 
 
-| Category                                                      | Description                                                                                                              | Points                                                             | Points |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------ |
-| Completeness (2 points)                                       | Includes all required sections: Lecture Title, Objectives, Key Concepts, Main Content, References, Contributors.<br><br> | All sections are present and properly filled out.                  | 2      |
-| Missing or incomplete sections.<br><br>                       | 1                                                                                                                        |
-| Major sections are missing.                                   | 0                                                                                                                        |
-| Clarity and Organization
-
-(2 points)                          | Summary is clear, concise, and well-organized, following the outlined structure.<br><br>                                 | Ideas are logically presented, and the structure is easy to follow | 2      |
-| Minor issues with clarity or organization<br><br>             | 1                                                                                                                        |
-| Poorly organized or hard to understand.                       | 0                                                                                                                        |
-| Accuracy
-
-(3 points)                                          | Accurately reflects the lecture content with no major errors in key concepts, definitions, or topics.<br><br>            | Information is accurate and complete.                              | 3      |
-| Minor inaccuracies or missing details.                        | 1-2                                                                                                                      |
-| Significant errors or misrepresentation of content.           | 0                                                                                                                        |
-| References
-
-(1 points)                                        | Relevant references (ISL/ESL or additional readings) are included and properly cited.<br><br>                            | References are appropriate and complete.                           | 1      |
-| References are missing or irrelevant.                         | 0                                                                                                                        |
-| Contribution and Collaboration
-
-(1 points)                    | All group members are listed as contributors, with evidence of collaboration.<br><br>                                    | Contributors are listed, and collaboration is evident.             | 1      |
-| Contributors are not listed, or no evidence of collaboration. | 0                                                                                                                        |
-| Discussion/Comments
-
-(1 points)                               | Includes thoughtful discussion points or questions related to the lecture content.<br><br>                               | Meaningful comments or discussion points are included.             | 1      |
-| Comments are missing or irrelevant.
-
-<br>                     | 0                                                                                                                        |
-| Total                                                         |                                                                                                                          |                                                                    | 10     |
+| Category                                                      | Description                                                                                                      | Points                                                             | Points |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------ |
+| Completeness (2 points)                                       | Includes all required sections: Lecture Title, Objectives, Key Concepts, Main Content, References, Contributors. | All sections are present and properly filled out.                  | 2      |
+| Missing or incomplete sections.                               | 1                                                                                                                |
+| Major sections are missing.                                   | 0                                                                                                                |
+| Clarity and Organization<br>(2 points)                        | Summary is clear, concise, and well-organized, following the outlined structure.                                 | Ideas are logically presented, and the structure is easy to follow | 2      |
+| Minor issues with clarity or organization                     | 1                                                                                                                |
+| Poorly organized or hard to understand.                       | 0                                                                                                                |
+| Accuracy<br>(3 points)                                        | Accurately reflects the lecture content with no major errors in key concepts, definitions, or topics.            | Information is accurate and complete.                              | 3      |
+| Minor inaccuracies or missing details.                        | 1-2                                                                                                              |
+| Significant errors or misrepresentation of content.           | 0                                                                                                                |
+| References<br>(1 points)                                      | Relevant references (ISL/ESL or additional readings) are included and properly cited.                            | References are appropriate and complete.                           | 1      |
+| References are missing or irrelevant.                         | 0                                                                                                                |
+| Contribution and Collaboration<br>(1 points)                  | All group members are listed as contributors, with evidence of collaboration.                                    | Contributors are listed, and collaboration is evident.             | 1      |
+| Contributors are not listed, or no evidence of collaboration. | 0                                                                                                                |
+| Discussion/Comments<br>(1 points)                             | Includes thoughtful discussion points or questions related to the lecture content.                               | Meaningful comments or discussion points are included.             | 1      |
+| Comments are missing or irrelevant.                           | 0                                                                                                                |
+| Total                                                         |                                                                                                                  |                                                                    | 10     |
