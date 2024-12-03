@@ -21,6 +21,7 @@ Ready to put together a lecture summary? It’s simpler than it seems! Just foll
 [Click here to access the guide for your lecture summary](https://docs.google.com/document/d/1XzYHr5u7qeg3cV6oSYFaCWN-cRT30TSnS2IgqCVOvCc/edit?usp=sharing). It walks you through each part of the summary step-by-step, so you know exactly what to include. Happy summarizing!
 
 ## Lecture summaries 
+
 | Lecture Date | Topic                                                                      | LInk to Summary                       | Due Date                              | Comment                     |
 | ------------ | -------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------- | --------------------------- |
 | 1/13         | Introduction                                                               | <span style="color:silver">N/A</span> | <span style="color:silver">N/A</span> |                             |
