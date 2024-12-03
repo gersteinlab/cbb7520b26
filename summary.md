@@ -46,6 +46,8 @@ Ready to put together a lecture summary? It’s simpler than it seems! Just foll
 | 4/9          | SIMULATION - Protein Simulation III                                        | 25s3                                  | 4/16                                  |                             |
 | 4/14         | SIMULATION - Protein Simulation IV                                         | 25s4                                  | draft due 4/20 finalized by 4/23      | special arrangment for quiz |
 | 4/16         | SIMULATION - Protein Simulation V                                          | 25s5                                  | draft due 4/20 finalized by 4/23      | special arrangment for quiz |
+| 4/21         | Quiz on 2nd Half                                                           |                                       |                                       |
+
 ## Rubric
 
 
