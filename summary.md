@@ -22,31 +22,33 @@ Ready to put together a lecture summary? It’s simpler than it seems! Just foll
 
 ## Lecture summaries 
 
-| Lecture Date | Topic                                                                      | LInk to Summary                       | Due Date                              | Comment                     |
-| ------------ | -------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------- | --------------------------- |
-| 1/13         | Introduction                                                               | <span style="color:silver">N/A</span> | <span style="color:silver">N/A</span> |                             |
-| 1/15         | DATA - Proteomics I                                                        | 23d3                                  | 1/29                                  |                             |
-| 1/22         | DATA - Proteomics II                                                       | 23d4                                  | 1/29                                  |                             |
-| 1/27         | DATA - Genomics I                                                          | 25d1                                  | 2/3                                   |                             |
-| 1/29         | DATA - Genomics II                                                         | 25d2                                  | 2/5                                   |                             |
-| 2/3          | DATA - Knowledge Representation & Databases                                | 25d5                                  | 2/10                                  |                             |
-| 2/5          | MINING - Personal Genomes + Seq. Comparison + Multi-seq Alignment          | 25i2a, 25m3, 25m4                     | 2/12                                  |                             |
-| 2/10         | MINING - Fast Alignment + Variant Calling (incl. a focused section on SVs) | 25m5, 25m6a,                          | draft due 2/16, finalized by 2/19     | special arrangment for quiz |
-| 2/12         | MINING - Basic Multi-Omics + Supervised Mining #1                          | 25m6b, 25m7, 25m8a                    | draft due 2/16, finalized by 2/19     | special arrangment for quiz |
-| 2/17         | Quiz on 1st Half                                                           |                                       |                                       |                             |
-| 2/19         | MINING - Supervised Mining #2 + Deep Learning Fundamentals #1              | 25m8b, 25m8c, 25t3                    | 2/26                                  |                             |
-| 2/24         | MINING - Deep Learning Fundamentals #2 + Unsupervised Mining #1            | 25t4, 25m9a, 25m9c                    | 3/3                                   |                             |
-| 2/26         | MINING - Unsupervised Mining #2 + Single-Cell Analysis #1                  | 25m9d, 25m9e                          | 3/5                                   |                             |
-| 3/3          | MINING - Single-Cell Analysis #2 + Biomedical Image Analysis               | 25t1, 25t2                            | 3/10                                  |                             |
-| 3/5          | MINING - Network Analysis                                                  | 25m10a, 25m10b, 25m10c, 25m10d        | 3/12                                  |                             |
-| 3/24         | MINING - Privacy                                                           | 23m11a, 25m11b                        | 3/31                                  |                             |
-| 3/26         | MINING/MODELING - Deep Learning Advanced I                                 | 25i3, 23m12a                          | 4/2                                   |                             |
-| 3/31         | MINING/MODELING - Deep Learning Advanced II                                | 23m12b                                | 4/7                                   |                             |
-| 4/2          | SIMULATION - Protein Simulation I                                          | 25s1                                  | 4/9                                   |                             |
-| 4/7          | SIMULATION - Protein Simulation II                                         | 25s2                                  | 4/14                                  |                             |
-| 4/9          | SIMULATION - Protein Simulation III                                        | 25s3                                  | 4/16                                  |                             |
-| 4/14         | SIMULATION - Protein Simulation IV                                         | 25s4                                  | draft due 4/20 finalized by 4/23      | special arrangment for quiz |
-| 4/16         | SIMULATION - Protein Simulation V                                          | 25s5                                  | draft due 4/20 finalized by 4/23      | special arrangment for quiz |
+| Lecture Summaries |
+| ----------------- |
+| Lecture Date      | Topic | LInk to Summary | Due Date | Comment |  |
+| 1/13              | Introduction | <span style="color:silver">N/A</span> | <span style="color:silver">N/A</span> |  |  |
+| 1/15              | DATA - Proteomics I |  | 1/29 |  |  |
+| 1/22              | DATA - Proteomics II |  | 1/29 |  |  |
+| 1/27              | DATA - Genomics I |  | 2/3 |  |  |
+| 1/29              | DATA - Genomics II |  | 2/5 |  |  |
+| 2/3               | DATA - Knowledge Representation & Databases |  | 2/10 |  |  |
+| 2/5               | MINING - Personal Genomes + Seq. Comparison + Multi-seq Alignment |  | 2/12 |  |  |
+| 2/10              | MINING - Fast Alignment + Variant Calling (incl. a focused section on SVs) |  | draft due 2/16, finalized by 2/19 | special arrangment for quiz |  |
+| 2/12              | MINING - Basic Multi-Omics + Supervised Mining #1 |  | draft due 2/16, finalized by 2/19 | special arrangment for quiz |  |
+| 2/17              | Quiz on 1st Half |  |  |  |  |
+| 2/19              | MINING - Supervised Mining #2 + Deep Learning Fundamentals #1 |  | 2/26 |  |  |
+| 2/24              | MINING - Deep Learning Fundamentals #2 + Unsupervised Mining #1 |  | 3/3 |  |  |
+| 2/26              | MINING - Unsupervised Mining #2 + Single-Cell Analysis #1 |  | 3/5 |  |  |
+| 3/3               | MINING - Single-Cell Analysis #2 + Biomedical Image Analysis |  | 3/10 |  |  |
+| 3/5               | MINING - Network Analysis |  | 3/12 |  |  |
+| 3/24              | MINING - Privacy |  | 3/31 |  |  |
+| 3/26              | MINING/MODELING - Deep Learning Advanced I |  | 4/2 |  |  |
+| 3/31              | MINING/MODELING - Deep Learning Advanced II |  | 4/7 |  |  |
+| 4/2               | SIMULATION - Protein Simulation I |  | 4/9 |  |  |
+| 4/7               | SIMULATION - Protein Simulation II |  | 4/14 |  |  |
+| 4/9               | SIMULATION - Protein Simulation III |  | 4/16 |  |  |
+| 4/14              | SIMULATION - Protein Simulation IV |  | draft due 4/20 finalized by 4/23 | special arrangment for quiz |  |
+| 4/16              | SIMULATION - Protein Simulation V |  | draft due 4/20 finalized by 4/23 | special arrangment for quiz |  |
+| 4/21              | Quiz on 2nd Half |  |  |  |
 
 ## Rubric
 
