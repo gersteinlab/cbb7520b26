@@ -48,7 +48,7 @@ Find our class page at: [Link to Piazza]() (TBA)
 ## General Course Policy
 
 ### First Meeting
-The first lecture will be held on Mon. Jan 20th, 2025. 
+The first lecture will be held on Mon. Jan 13th, 2025. 
 
 ### Grading Policy
 We expect that this year the weighting scheme will be to a first approximation:
