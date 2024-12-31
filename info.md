@@ -39,11 +39,11 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 | Yunzhe Jiang	| YJ  | 100 College St (9/F)	| yunzhe.jiang (at) yale.edu |
 | Donglu Bai	| DB  | 100 College St (9/F)	| donglu.bai (at) yale.edu |
 
-## Piazza
+<!-- ## Canvs
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and the TAs. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. 
+This term we will be using Canvas for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and the TAs. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Canvas Discussion.  -->
 
-Find our class page at: [Link to Piazza]() (TBA)
+<!-- Find our class page at: [Link to Piazza]() (TBA) -->
 
 ## General Course Policy
 
