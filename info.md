@@ -4,10 +4,10 @@ layout: page
 ---
 ## Course Survey
 ### 1st Course Survey
-[1st Course Survey ](https://forms.gle/2qnXdeJAdvH4LTtu7 | Due Jan 12th,2025
+[1st Course Survey ](https://forms.gle/2qnXdeJAdvH4LTtu7)   Due Jan 12th,2025
 
 ### 2st Course Survey
-[2nd Course Survey ](https://forms.gle/pHDcGFrHrgL4Uf6K7) | Please finish by Jan 13th,2025
+[2nd Course Survey ](https://forms.gle/pHDcGFrHrgL4Uf6K7)   Please finish by Jan 13th,2025
 
 
 
