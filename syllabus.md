@@ -6,7 +6,6 @@ layout: page
 
 ## Syllabus
 
-test2
 Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (with slide packs at the bottom) for previews for this year’s lectures, which will be slightly different. For this year, an updated slide pack will be posted after the lecture. (If it is substantially different from '22, an updated video will also be posted.) Video recordings for this year's lectures can be found in the Media Library tab in Canvas.
 
 | Date | Topic                                                                      | 2025 Spring's Lecture | [2023 Spring's Lecture](https://cbb752b23.gersteinlab.org/syllabus)      | Comment | Lecture Summary |
