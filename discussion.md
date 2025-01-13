@@ -43,7 +43,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 1, 1/26 or 1/27
+<!-- ### Session 1, 1/26 or 1/27
 
 #### Topic
 * Next-Gen Sequencing and database
@@ -175,3 +175,4 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 #### Reading Assignment
 * (no reading assignment this week)
+ -->
