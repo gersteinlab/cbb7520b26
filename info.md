@@ -2,6 +2,14 @@
 title: Course Info
 layout: page
 ---
+## Course Survey
+### 1st Course Survey
+[1st Course Survey ](https://forms.gle/2qnXdeJAdvH4LTtu7 | Due Jan 12th,2025
+
+### 2st Course Survey
+[2nd Course Survey ](https://forms.gle/pHDcGFrHrgL4Uf6K7) | Please finish by Jan 13th,2025
+
+
 
 ## Contact Info
 
@@ -55,11 +63,12 @@ We expect that this year the weighting scheme will be to a first approximation:
 
 | Category	| % of Total Grade |
 |---|---|
-| Quiz 1 |	15% |
-| Quiz 2 |	15% |
-| Discussion Section |	20% |
-| Homeworks	| 20% |
-| Final Project	| 30% |
+| Quiz 1 |	13% |
+| Quiz 2 |	13% |
+| Lecture Summary |	10% |
+| Discussion Section |	18% |
+| Homeworks	| 18% |
+| Final Project	| 28% |
 
 ### Recording Policy
 We will follow the default FAS policy on recording where the instructor’s lectures will be recorded, and student contributions in seminars and sections will not be recorded.
