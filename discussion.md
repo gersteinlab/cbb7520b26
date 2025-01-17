@@ -43,7 +43,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-<!-- ### Session 1, 1/26 or 1/27
+### Session 1, 1/23(Thur), 1/24(Fri), 1/27(Mon)
 
 #### Topic
 * Next-Gen Sequencing and database
@@ -54,7 +54,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 2, 2/2 or 2/3
+<!-- ### Session 2, 2/2 or 2/3
 
 #### Topic
 * Proteomics
