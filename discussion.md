@@ -38,7 +38,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### (Optional) Suggested Reading for Week 1
+<!-- ### (Optional) Suggested Reading for Week 1
 * How to (seriously) read a scientific paper, on your own. [[Link]](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 ---
@@ -53,7 +53,7 @@ Reading assignments for discussion sessions are listed below:
 * Logsdon GA et al. "Long-read human genome sequencing and its applications" Nature Reviews Genetics. 21:597-614 (2020) [[PDF]](https://www.nature.com/articles/s41576-020-0236-x.pdf)
 
 ---
-
+ -->
 <!-- ### Session 2, 2/2 or 2/3
 
 #### Topic
