@@ -38,7 +38,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-<!-- ### (Optional) Suggested Reading for Week 1
+### (Optional) Suggested Reading for Week 1
 * How to (seriously) read a scientific paper, on your own. [[Link]](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 ---
@@ -46,22 +46,24 @@ Reading assignments for discussion sessions are listed below:
 ### Session 1, 1/23(Thur), 1/24(Fri), 1/27(Mon)
 
 #### Topic
-* Next-Gen Sequencing and database
-
-#### Reading Assignment
-* Wheeler DA et al. "The complete genome of an individual by massively parallel DNA sequencing,” Nature. 452:872-876 (2008) [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/WatsonGenome.pdf)
-* Logsdon GA et al. "Long-read human genome sequencing and its applications" Nature Reviews Genetics. 21:597-614 (2020) [[PDF]](https://www.nature.com/articles/s41576-020-0236-x.pdf)
-
----
- -->
-<!-- ### Session 2, 2/2 or 2/3
-
-#### Topic
 * Proteomics
 
 #### Reading Assignment
 * A draft map of the human proteome. Nature 509,575–581 (29 May 2014) [[PDF]](https://www.nature.com/articles/nature13302.pdf)
 * Mass-spectrometry-based draft of the human proteome. Nature 509, 582–587 (29 May 2014) [[PDF]](https://www.nature.com/articles/nature13319.pdf)
+
+---
+
+<!-- ### Session 2, 2/2 or 2/3
+
+
+#### Topic
+* Next-Gen Sequencing and database
+
+
+#### Reading Assignment
+* Wheeler DA et al. "The complete genome of an individual by massively parallel DNA sequencing,” Nature. 452:872-876 (2008) [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/WatsonGenome.pdf)
+* Logsdon GA et al. "Long-read human genome sequencing and its applications" Nature Reviews Genetics. 21:597-614 (2020) [[PDF]](https://www.nature.com/articles/s41576-020-0236-x.pdf)
 
 ---
 
