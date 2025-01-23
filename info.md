@@ -105,42 +105,42 @@ For the class you can choose to do assignments in either R or python. Here are s
 ### 1. Recording Policy
 We will follow the default FAS policy on recording where the instructor’s lectures will be recorded, and student contributions in seminars and sections will not be recorded.
 
-### Relevant Yale College Regulations
+### 2. Relevant Yale College Regulations
 
 Students may have questions concerning end-of-term matters. Links to further information about these regulations can be found below:
 - http://catalog.yale.edu/ycps/academic-regulations/reading-period-final-examination-period/
 - http://catalog.yale.edu/ycps/academic-regulations/completion-of-course-work/
 - Brief presentation on how to cite correctly : http://archive.gersteinlab.org/mark/out/log/2012/06.12/cbb752b12/cbb752_cite.ppt
 
-### AI Policy
+### 3. AI Policy
 
 #### Permitted Uses of AI Tools
 Students may use AI tools for the following purposes:
-1. Research and Learning Support:
+a. Research and Learning Support:
 * Help in understanding complex topics and questions. 
 * Assisting with coding or debugging programming assignments -- yes, this is allowed!
 * Proofreading and enhancing written assignments for clarity and grammar.
-2. Creative Brainstorming:
+b. Creative Brainstorming:
 * Exploring different perspectives or approaches to a topic.
 * Developing outlines or rough drafts for essays or presentations.
-3. Efficiency Tools:
+c. Efficiency Tools:
 * Managing references, citations, and bibliographies.
 
 
-<!-- #### Prohibited Uses of AI Tools
+#### Prohibited Uses of AI Tools
 Students must not use AI tools for the following:
-Academic Dishonesty:
+1. Academic Dishonesty:
 (The below list is somewhat redundant, but we want to make this very clear.)
-Using AI to generate submitted lecture summaries, paper summaries, projects, and assignments.
-Submitting AI-generated code, writing, or solutions as their own work without substantial modifications or understanding.
-Copying and pasting AI-generated content directly into assignments. 
-Bypassing Learning Objectives:
+* Using AI to generate submitted lecture summaries, paper summaries, projects, and assignments.
+* Submitting AI-generated code, writing, or solutions as their own work without substantial modifications or understanding.
+* Copying and pasting AI-generated content directly into assignments. 
+2. Bypassing Learning Objectives:
 (This is more conceptual in spirit and meant as more of an overall guide.)
-Avoiding critical thinking by relying entirely on AI to generate answers.
-Using AI to bypass coursework designed to assess student understanding and creativity.
-Unethical Behavior:
-Misrepresenting AI output as one's own intellectual work (see attribution requirements below). 
- -->
+* Avoiding critical thinking by relying entirely on AI to generate answers.
+* Using AI to bypass coursework designed to assess student understanding and creativity.
+3. Unethical Behavior:
+* Misrepresenting AI output as one's own intellectual work (see attribution requirements below). 
+
 
 
 ### Accessibility Statement
