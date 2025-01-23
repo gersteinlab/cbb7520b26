@@ -52,7 +52,7 @@ This term we will be using Canvas for class discussion. The system is highly cat
 
 <!-- Find our class page at: [Link to Piazza]() (TBA) -->
 
-## General Course Policy
+## General Course Information 
 
 ### First Meeting
 The first lecture will be held on Mon. Jan 13th, 2025. 
@@ -69,15 +69,7 @@ We expect that this year the weighting scheme will be to a first approximation:
 | Homeworks	| 18% |
 | Final Project	| 28% |
 
-### Recording Policy
-We will follow the default FAS policy on recording where the instructor’s lectures will be recorded, and student contributions in seminars and sections will not be recorded.
 
-### Relevant Yale College Regulations
-
-Students may have questions concerning end-of-term matters. Links to further information about these regulations can be found below:
-- http://catalog.yale.edu/ycps/academic-regulations/reading-period-final-examination-period/
-- http://catalog.yale.edu/ycps/academic-regulations/completion-of-course-work/
-- Brief presentation on how to cite correctly : http://archive.gersteinlab.org/mark/out/log/2012/06.12/cbb752b12/cbb752_cite.ppt
 
 ## Useful Background Books & Websites
 
@@ -107,6 +99,33 @@ For the class you can choose to do assignments in either R or python. Here are s
 **The R book (2nd edition) by Michael J. Crawley**
 
 **R for Data Science by Hadley Wickam**
+
+## Course Policy
+
+### Recording Policy
+We will follow the default FAS policy on recording where the instructor’s lectures will be recorded, and student contributions in seminars and sections will not be recorded.
+
+### Relevant Yale College Regulations
+
+Students may have questions concerning end-of-term matters. Links to further information about these regulations can be found below:
+- http://catalog.yale.edu/ycps/academic-regulations/reading-period-final-examination-period/
+- http://catalog.yale.edu/ycps/academic-regulations/completion-of-course-work/
+- Brief presentation on how to cite correctly : http://archive.gersteinlab.org/mark/out/log/2012/06.12/cbb752b12/cbb752_cite.ppt
+
+### AI Policy
+
+#### Permitted Uses of AI Tools
+Students may use AI tools for the following purposes:
+1. Research and Learning Support:
+* Help in understanding complex topics and questions. 
+* Assisting with coding or debugging programming assignments -- yes, this is allowed!
+* Proofreading and enhancing written assignments for clarity and grammar.
+2. Creative Brainstorming:
+* Exploring different perspectives or approaches to a topic.
+* Developing outlines or rough drafts for essays or presentations.
+3. Efficiency Tools:
+* Managing references, citations, and bibliographies.
+
 
 ### Accessibility Statement
 We are committed to creating a course that is inclusive in its design. If you encounter barriers, please let us know immediately so that we can determine if there is a design adjustment that can be made or if an accommodation might be needed to overcome the limitations of the design. We are always happy to consider creative solutions as long as they do not compromise the intent of the assessment or learning activity. You are also welcome to contact Student Accessibility Services to begin this conversation or to establish accommodations for this or other courses. We welcome feedback that will assist us in improving the usability and experience for all students.
