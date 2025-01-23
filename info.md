@@ -146,7 +146,7 @@ If AI tools are used in any capacity, students must:
 1. Clearly acknowledge their use in the assignment or project. Example:
 * "This assignment used ChatGPT for brainstorming and improving grammatical accuracy."
 * "Python debugging assistance was obtained via Copilot."
-2, Specify which parts of the work were influenced by AI and ensure the final submission reflects their understanding.
+2. Specify which parts of the work were influenced by AI and ensure the final submission reflects their understanding.
 
 #### Consequences of Misuse
 
