@@ -8,11 +8,11 @@ layout: page
 
 Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (with slide packs at the bottom) for previews for this year’s lectures, which will be slightly different. For this year, an updated slide pack will be posted after the lecture. (If it is substantially different from '22, an updated video will also be posted.) Video recordings for this year's lectures can be found in the Media Library tab in Canvas.
 
-| Date | Topic                                                                      | 2025 Spring's Lecture | [2023 Spring's Lecture](https://cbb752b23.gersteinlab.org/syllabus)      | Comment | Lecture Summary |
+|      | Topic                                                                      | 2025 Spring's Lecture | [2023 Spring's Lecture](https://cbb752b23.gersteinlab.org/syllabus)      | Comment | Lecture Summary |
 | ---- | -------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------ | ------- | --------------- |
 | 1/13 | \*YALE\* Spring term classes begin, 8.20 a.m.                              |                       |                                                                          |         |                 |
 |      |                                                                            |                       |                                                                          |         |                 |
-| 1/13 | Introduction                                                               |                       | <span style="color:silver">23i1, 23i2a</span>                            |         |                 |
+| 1/13 | Introduction                                                               | 25i1-25i2a            | <span style="color:silver">23i1, 23i2a</span>                            |         |                 |
 | 1/15 | DATA - Proteomics I                                                        |                       | <span style="color:silver">23d3</span>                                   |         |                 |
 | 1/22 | DATA - Proteomics II                                                       |                       | <span style="color:silver">23d4</span>                                   |         |                 |
 | 1/27 | DATA - Genomics I                                                          |                       | <span style="color:silver">23d1</span>                                   |         |                 |
@@ -39,8 +39,8 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 | 4/9  | SIMULATION - Protein Simulation III                                        |                       | <span style="color:silver">23s3</span>                                   |         |                 |
 | 4/14 | SIMULATION - Protein Simulation IV                                         |                       | <span style="color:silver">23s4</span>                                   |         |                 |
 | 4/16 | SIMULATION - Protein Simulation V                                          |                       | <span style="color:silver">23s5</span>                                   |         |                 |
-| 4/21 | Final Presentations                                                        |                       |                                                                          |         |                 |
-| 4/23 |                                                                            |                       |                                                                          |         |                 |
+| 4/21 | Quiz on 2nd Half                                                           |                       |                                                                          |         |                 |
+| 4/23 | Final Presentations                                                        |                       |                                                                          |         |                 |
 | 4/25 | \*YALE\* Classes end; Reading period begins                                |                       |                                                                          |         |                 |
 | 5/1  | \*YALE\* Final examinations begin                                          |                       |                                                                          |         |                 |
 | 5/7  | \*YALE\* Final examinations end                                            |                       |                                                                          |         |
@@ -48,11 +48,10 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 
 ### Lecture Slide Pack
 
-
 | Lecture Slide Pack and Video |
 | ---------------------------- |
 | #                            | Topic | PDF | PPT | Youtube<br>('21 unless indicated otherwise) | MPEG (2021) |
-| 25i1                         | Introduction to Biomedical Data Science |  |  | [](https://youtu.be/0B9BYt5bV84)[I1](https://youtu.be/0B9BYt5bV84) | [](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1feb21.01-intro-lect.onweb.wo2faces.mp4)[I1](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1feb21.01-intro-lect.onweb.wo2faces.mp4) |
+| 25i1                         | Introduction to Biomedical Data Science |  | [25i1-25i2a](https://files.gersteinlab.org/public-docs/2025/01.23/cbb752b25-25i1-25i2a--intro-course-n-personal-genomes.pptx) | [](https://youtu.be/0B9BYt5bV84)[I1](https://youtu.be/0B9BYt5bV84) | [](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1feb21.01-intro-lect.onweb.wo2faces.mp4)[I1](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1feb21.01-intro-lect.onweb.wo2faces.mp4) |
 | 25i2a                        | Introduction to Personal Genomes |  |  | [](https://youtu.be/K_Q-17uWlxo)[I2a](https://youtu.be/K_Q-17uWlxo) |  |
 | 25i2b                        | An Individual's Perspective on Personal Genomes |  |  | [](https://youtu.be/0qDgfrPY180)[I2b](https://youtu.be/0qDgfrPY180) | [](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_Lecture_default_cbb752b21_24feb21_Carl_Zimmer_Personal_Genome.mp4)[i2b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_Lecture_default_cbb752b21_24feb21_Carl_Zimmer_Personal_Genome.mp4) |
 |                              |  |  |  |  |  |
