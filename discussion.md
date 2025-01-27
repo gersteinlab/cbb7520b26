@@ -54,7 +54,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-<!-- ### Session 2, 2/2 or 2/3
+### Session 2, 1/30(Thur), 1/31(Fri), 2/3(Mon)
 
 
 #### Topic
@@ -67,7 +67,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 3, 2/9 or 2/10
+<!-- ### Session 3, 2/9 or 2/10
 
 #### Topic
 * Debate I
