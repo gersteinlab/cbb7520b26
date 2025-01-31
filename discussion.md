@@ -67,7 +67,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-<!-- ### Session 3, 2/9 or 2/10
+### Session 3, 2/6(Thur), 2/7(Fri), 2/10(Mon)
 
 #### Topic
 * Debate I
@@ -79,7 +79,7 @@ Reading assignments for discussion sessions are listed below:
   * (Optional) New human gene tally reignites debate [[News Article]](https://www.nature.com/articles/d41586-018-05462-w)
 * (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
 
----
+<!-- --
 
 ### Session 4, 2/16 or 2/17
 
@@ -177,4 +177,4 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 #### Reading Assignment
 * (no reading assignment this week)
- -->
+ --> -->
