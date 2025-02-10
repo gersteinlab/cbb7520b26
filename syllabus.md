@@ -69,20 +69,20 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 | 25m6a                        | Variant Identification |  |  | [](https://youtu.be/r_Wj3mQS5Rg)[M6a](https://youtu.be/r_Wj3mQS5Rg) | [M6a](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-3mar21.06-SNVs-SVs.onweb.mp4) |
 | 25m6b                        | 1000 Genome + PCAWG summary |  |  | [](https://youtu.be/W_9PMdrVcoU)[M6b](https://youtu.be/W_9PMdrVcoU) | [M6b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-8mar21.6b-1000G-PCAWG.onweb.mp4) |
 |                              |  |  |  |  |  |
-| 25m7                         | Basic Pipeline Processing for Genomics & Multi-omics |  |  | [](https://youtu.be/6518t-LZPIU)[M7](https://youtu.be/6518t-LZPIU) | M7 |
+| 25m7                         | Basic Pipeline Processing for Genomics & Multi-omics |  |  | [](https://youtu.be/6518t-LZPIU)[M7](https://youtu.be/6518t-LZPIU) | [M7](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-8mar21.07-multi-omics.onweb.mp4) |
 |                              |  |  |  |  |  |
-| 25m8a                        | Supervised Data Mining - Decision Trees |  |  | [](https://youtu.be/NHXsSPkhcUI)[M8a](https://youtu.be/NHXsSPkhcUI) | M8a |
-| 25m8b                        | Supervised Data Mining - ROC & Cross-validation |  |  | [](https://youtu.be/q6n346cRNMY)[M8b](https://youtu.be/q6n346cRNMY) | M8b |
-| 25m8c                        | Supervised Data Mining - SVMs |  |  | [](https://youtu.be/ag71egQPz9w)[M8c](https://youtu.be/ag71egQPz9w) | M8c |
+| 25m8a                        | Supervised Data Mining - Decision Trees |  |  | [](https://youtu.be/NHXsSPkhcUI)[M8a](https://youtu.be/NHXsSPkhcUI) | [M8a](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-8mar21.08a-datamining-supervised-decisiontrees.onweb.mp4) |
+| 25m8b                        | Supervised Data Mining - ROC & Cross-validation |  |  | [](https://youtu.be/q6n346cRNMY)[M8b](https://youtu.be/q6n346cRNMY) | [M8b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.8b.Supervised-mining-ROC-n-crossvalidation.onweb.mp4) |
+| 25m8c                        | Supervised Data Mining - SVMs |  |  | [](https://youtu.be/ag71egQPz9w)[M8c](https://youtu.be/ag71egQPz9w) | [M8c](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.8c-Supervised-mining-SVMs.onweb.mp4) |
 |                              |  |  |  |  |  |
 | 25t3                         | Deep Learning Fundamentals I |  |  |  |  |
 | 25t4                         | Deep Learning Fundamentals II |  |  |  |  |
 |                              |  |  |  |  |  |
-| 25m9a                        | Unsupervised Data Mining - Clustering |  |  | [](https://youtu.be/9hDw_aLzSPw)[M9a](https://youtu.be/9hDw_aLzSPw) | M9a |
-| 25m9c                        | Unsupervised Data Mining - SVD |  |  | [](https://youtu.be/UdtzKBp8VH0)[M9c](https://youtu.be/UdtzKBp8VH0) | M9c |
-| 25m9d                        | Unsupervised Data Mining - SVD extensions |  |  | [](https://youtu.be/dX_LVKsCee0)[M9d](https://youtu.be/dX_LVKsCee0) | M9d |
+| 25m9a                        | Unsupervised Data Mining - Clustering |  |  | [](https://youtu.be/9hDw_aLzSPw)[M9a](https://youtu.be/9hDw_aLzSPw) | [M9a](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.9a.Unsupervised-mining-clustering.onweb.mp4) |
+| 25m9c                        | Unsupervised Data Mining - SVD |  |  | [](https://youtu.be/UdtzKBp8VH0)[M9c](https://youtu.be/UdtzKBp8VH0) | [M9c](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.09c-SVD.onweb.mp4) |
+| 25m9d                        | Unsupervised Data Mining - SVD extensions |  |  | [](https://youtu.be/dX_LVKsCee0)[M9d](https://youtu.be/dX_LVKsCee0) | [M9d](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.09d-datamining-unsupervised--rca-cca.onweb.mp4) |
 |                              |  |  |  |  |  |
-| 25m9e                        | Single Cell Analysis |  |  |  | [](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4)[23m9e](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4) |
+| [25m9e](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4)                        | Single Cell Analysis |  |  |  | [](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4)[23m9e](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4) |
 | 25t1                         | Single Cell part 2 (mabye should renumber this!!) |  |  |  | [](http://files.gersteinlab.org/public-docs/2023/04.27/DB_lecture.mp4)[23t1](http://files.gersteinlab.org/public-docs/2023/04.27/DB_lecture.mp4) |
 |                              |  |  |  |  |  |
 | 25m10a                       | Networks - Intro |  |  | [](https://youtu.be/KIEjigOPoq0)[M10a](https://youtu.be/KIEjigOPoq0) | M10a |
