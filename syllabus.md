@@ -85,21 +85,21 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 | [25m9e](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4)                        | Single Cell Analysis |  |  |  | [](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4)[23m9e](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4) |
 | 25t1                         | Single Cell part 2 (mabye should renumber this!!) |  |  |  | [](http://files.gersteinlab.org/public-docs/2023/04.27/DB_lecture.mp4)[23t1](http://files.gersteinlab.org/public-docs/2023/04.27/DB_lecture.mp4) |
 |                              |  |  |  |  |  |
-| 25m10a                       | Networks - Intro |  |  | [](https://youtu.be/KIEjigOPoq0)[M10a](https://youtu.be/KIEjigOPoq0) | M10a |
-| 25m10b                       | Networks - Network Quantities |  |  | [](https://youtu.be/tmgECW9Pjoo)[M10b](https://youtu.be/tmgECW9Pjoo) | M10b |
-| 25m10c                       | Networks - Network Generation Models |  |  | [](https://youtu.be/FalSiWgVF3A)[M10c](https://youtu.be/FalSiWgVF3A) | M10c |
+| 25m10a                       | Networks - Intro |  |  | [](https://youtu.be/KIEjigOPoq0)[M10a](https://youtu.be/KIEjigOPoq0) | [M10a](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.10a-network-topology-analysis.onweb.mp4) |
+| 25m10b                       | Networks - Network Quantities |  |  | [](https://youtu.be/tmgECW9Pjoo)[M10b](https://youtu.be/tmgECW9Pjoo) | [M10b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.10b-network-topology-analysis.onweb.mp4) |
+| 25m10c                       | Networks - Network Generation Models |  |  | [](https://youtu.be/FalSiWgVF3A)[M10c](https://youtu.be/FalSiWgVF3A) | [M10c](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-29mar21.10c-network-topology-analysis.onweb.mp4) |
 | 25m10d                       | Networks - Network Toplogy Analysis |  |  | [](https://youtu.be/zZb_uZY69ac)[M10d](https://youtu.be/zZb_uZY69ac) | [](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-29mar21.10d-network-topology-analysis.onweb.mp4)[M10d](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-29mar21.10d-network-topology-analysis.onweb.mp4) |
 | 25m10e                       | Networks - Network Prediction |  |  |  | [](http://files2.gersteinlab.org/public-docs/2023/04.13/network/23m10e--cbb752-MG-spr23-network-prediction.mp4)[23m10e](http://files2.gersteinlab.org/public-docs/2023/04.13/network/23m10e--cbb752-MG-spr23-network-prediction.mp4) |
 |                              |  |  |  |  |  |
-| 25i3                         | Transition - Mining to Modeling |  |  |  | 23i3 |
+| 25i3                         | Transition - Mining to Modeling |  |  |  | [23i3](http://files2.gersteinlab.org/public-docs/2023/04.13/network/23i3--cbb752-MG-spr23-trans-mine2model.mp4) |
 |                              |  |  |  |  |  |
 | 25m11a                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
 | 25m11b                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
 |                              |  |  |  |  |  |
 | 25t2                         | Image Analysis |  |  |  | [](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4)[22m11](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4) |
 |                              |  |  |  |  |  |
-| 25m12a                       | Deep Learning III |  |  | M12a | M12a |
-| 25m12b                       | Deep Learning IV |  |  | M12b | M12b |
+| 25m12a                       | Deep Learning III |  |  | [M12a](https://youtu.be/Y6hbdHspbr0) | [M12a](http://files.gersteinlab.org/media/videos/331.mp4) |
+| 25m12b                       | Deep Learning IV |  |  | [M12b](https://youtu.be/ctTXeAnYUSg) | [M12b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0405.mp4) |
 |                              |  |  |  |  |  |
 | 25s1                         | Protein Folding |  |  | [](https://youtu.be/kOjIV1C6LmI)[S1](https://youtu.be/kOjIV1C6LmI) | [](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4)[S1](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4) |
 | 25s2                         | Core Repacking |  |  | [](https://www.youtube.com/watch?v=5as493cQ2t4)[S2](https://www.youtube.com/watch?v=5as493cQ2t4) | [](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4)[S2](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4) |
