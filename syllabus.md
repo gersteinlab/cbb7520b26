@@ -65,9 +65,9 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 |                              |  |  |  |  |  |
 | 25m3                         | Sequence Comparison |  |  | [](https://youtu.be/vIhskcQH2m0)[M3](https://youtu.be/vIhskcQH2m0) | [M3](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1mar21.03-seqcmp.reencode.onweb.mp4) |
 | 25m4                         | Multiple Sequence Comparison |  |  | [](https://youtu.be/1n8wIPTOYPY)[M4](https://youtu.be/1n8wIPTOYPY) | [M4](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1mar21.04-multiseq.reencode.onweb.mp4) |
-| 25m5                         | Fast Alignment |  |  | [](https://youtu.be/G7JQUGnpx_Q)[M5](https://youtu.be/G7JQUGnpx_Q) | M5 |
-| 25m6a                        | Variant Identification |  |  | [](https://youtu.be/r_Wj3mQS5Rg)[M6a](https://youtu.be/r_Wj3mQS5Rg) | M6a |
-| 25m6b                        | 1000 Genome + PCAWG summary |  |  | [](https://youtu.be/W_9PMdrVcoU)[M6b](https://youtu.be/W_9PMdrVcoU) | M6b |
+| 25m5                         | Fast Alignment |  |  | [](https://youtu.be/G7JQUGnpx_Q)[M5](https://youtu.be/G7JQUGnpx_Q) | [M5](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-3mar21.05-fast-alignment.onweb.mp4) |
+| 25m6a                        | Variant Identification |  |  | [](https://youtu.be/r_Wj3mQS5Rg)[M6a](https://youtu.be/r_Wj3mQS5Rg) | [M6a](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-3mar21.06-SNVs-SVs.onweb.mp4) |
+| 25m6b                        | 1000 Genome + PCAWG summary |  |  | [](https://youtu.be/W_9PMdrVcoU)[M6b](https://youtu.be/W_9PMdrVcoU) | [M6b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-8mar21.6b-1000G-PCAWG.onweb.mp4) |
 |                              |  |  |  |  |  |
 | 25m7                         | Basic Pipeline Processing for Genomics & Multi-omics |  |  | [](https://youtu.be/6518t-LZPIU)[M7](https://youtu.be/6518t-LZPIU) | M7 |
 |                              |  |  |  |  |  |
