@@ -32,10 +32,10 @@ Link TBA
 
 | Session | Time | Location | 
 | --- | --- | --- | 
-| Section 1 | TBD | YSB352 |
-| Section 2 | TBD  | BASS405 | 
-| Section 3 | TBD | YSB352 | 
-| Section 4 | TBD  | YSB352 |
+| Section 1 | Monday 11:00-12:00pm  | YSB352 |
+| Section 2 | Thursday 12:00-1:00pm  | YSB352 | 
+| Section 3 | Thursday 1:00-2:00pm| YSB352 | 
+| Section 4 | Friday 10:00-11:00am| YSB352 |
 
 
 
