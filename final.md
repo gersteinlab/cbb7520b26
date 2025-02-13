@@ -5,16 +5,16 @@ layout: page
 
 ## Final Project
 
-Download the final project description [here](http://files2.gersteinlab.org/public-docs/2023/04.07/cbb752b23_final_v2.pdf).  
+<!-- Download the final project description [here](http://files2.gersteinlab.org/public-docs/2023/04.07/cbb752b23_final_v2.pdf).  
 See [here](https://docs.google.com/spreadsheets/d/12eF1q4HXe_D7Pig2947wOGnLPG8hf17inPpPseQwuFw/edit#gid=1373076059) for group assignments.
-
+ -->
 **Key Due Dates**:
 
-* 3-minute recorded presentations: TBD
+* 3-minute recorded presentations: April 21st, 11:59PM
 
-* 15-minute presentations in discussion: TBD 
+* 15-minute presentations in discussion: April 24th, 25th, 28th
 
-* Written report and other deliverables: TBD
+* Written report and other deliverables: April 30th, 11:59PM
 
 
 <!-- ### Zimmerome Project Summary
