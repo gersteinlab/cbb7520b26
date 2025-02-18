@@ -88,13 +88,13 @@ Debate II - Cancer incidence
 
 #### Reading Assignment
 
-* Variation in cancer risk among tissues can be explained by the number of stem cell divisions [[Link]](http://files.gersteinlab.org/public-docs/2021/03.14/disc6_78.full.pdf)
-* Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention [[Link]](http://files.gersteinlab.org/public-docs/2021/03.14/disc6_1330.full.pdf)
+* Variation in cancer risk among tissues can be explained by the number of stem cell divisions [[Link]](https://files.gersteinlab.org/public-docs/2021/03.14/disc6_78.full.pdf)
+* Stem cell divisions, somatic mutations, cancer etiology, and cancer prevention [[Link]](https://files.gersteinlab.org/public-docs/2021/03.14/disc6_1330.full.pdf)
 
 The following two are short comments on the above paper. You should read these comments as well.
 
-* Debate reignites over the contributions of ‘bad luck’ mutations to cancer [[Link]](http://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
-* The simple math that explains why you may (or may not) get cancer [[Link]](http://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
+* Debate reignites over the contributions of ‘bad luck’ mutations to cancer [[Link]](https://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
+* The simple math that explains why you may (or may not) get cancer [[Link]](https://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
 
 <!-- ---
 
