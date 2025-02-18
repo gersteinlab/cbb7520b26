@@ -79,9 +79,9 @@ Reading assignments for discussion sessions are listed below:
   * (Optional) New human gene tally reignites debate [[News Article]](https://www.nature.com/articles/d41586-018-05462-w)
 * (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
 
-<!-- --
+--
 
-### Session 4, 2/16 or 2/17
+### Session 4, 2/20(Thur), 2/21(Fri), 2/24(Mon)
 
 #### Topic
 Debate II - Cancer incidence
@@ -96,7 +96,7 @@ The following two are short comments on the above paper. You should read these c
 * Debate reignites over the contributions of ‘bad luck’ mutations to cancer [[Link]](http://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
 * The simple math that explains why you may (or may not) get cancer [[Link]](http://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
 
----
+<!-- ---
 
 ### Session 5, 2/23 or 2/24
 
@@ -177,4 +177,4 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 #### Reading Assignment
 * (no reading assignment this week)
- --> -->
+ --> 
