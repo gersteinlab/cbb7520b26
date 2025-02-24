@@ -80,8 +80,18 @@ Reading assignments for discussion sessions are listed below:
 * (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
 
 --
+### Session 4, 2/13(Thur), 2/14(Fri), 2/17(Mon)
 
-### Session 4, 2/20(Thur), 2/21(Fri), 2/24(Mon)
+#### Topic 
+* Review Session for quiz
+
+#### Reading Assignment
+* none
+
+
+---
+
+### Session 5, 2/20(Thur), 2/21(Fri), 2/24(Mon)
 
 #### Topic
 Debate II - Cancer incidence
@@ -96,21 +106,11 @@ The following two are short comments on the above paper. You should read these c
 * Debate reignites over the contributions of ‘bad luck’ mutations to cancer [[Link]](https://www.sciencemag.org/news/2017/03/debate-reignites-over-contributions-bad-luck-mutations-cancer)
 * The simple math that explains why you may (or may not) get cancer [[Link]](https://www.sciencemag.org/news/2015/01/simple-math-explains-why-you-may-or-may-not-get-cancer)
 
-<!-- ---
-
-### Session 5, 2/23 or 2/24
-
-#### Topic 
-* Review Session for quiz
-
-#### Reading Assignment
-* none
-
-
 ---
 
 
-### Session 6, 3/2 or 3/3
+
+### Session 6, 2/27(Thur), 2/28(Fri), 3/3(Mon)
 
 #### Topic
 * Single Cell
@@ -119,7 +119,7 @@ The following two are short comments on the above paper. You should read these c
 * Temporal modelling using single-cell transcriptomics [[Link]](https://www.nature.com/articles/s41576-021-00444-7)
 * Single-cell landscape of immunological responses in patients with COVID-19 [[Link]](https://www.nature.com/articles/s41590-020-0762-x)
 
----
+<!-- ---
 
 ### Session 7, 3/30 or 3/31
 
@@ -177,4 +177,4 @@ Additional Topics: Digital Phenotyping/Biosensors and Privacy
 
 #### Reading Assignment
 * (no reading assignment this week)
- --> 
+  -->
