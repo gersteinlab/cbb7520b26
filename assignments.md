@@ -7,7 +7,7 @@ layout: page
 
 Due: March 26th, 11:59pm  
 
-Assignemnt Documents: [URL](https://yale.instructure.com/files/10831582/download?download_frd=1&verifier=eGOUfmpHP87DGC60Ut0TMquC8iH6jZ0agyUkJCW1)  
+Assignemnt Documents: [URL](http://files2.gersteinlab.org/public-docs/2025/03.10/hw1.zip)  [updated version in March 10th]
 
 # Homework 2
 
