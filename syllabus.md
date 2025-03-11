@@ -75,7 +75,7 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 | 25m8b                        | Supervised Data Mining - ROC & Cross-validation |  |  | [](https://youtu.be/q6n346cRNMY)[M8b](https://youtu.be/q6n346cRNMY) | [M8b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.8b.Supervised-mining-ROC-n-crossvalidation.onweb.mp4) |
 | 25m8c                        | Supervised Data Mining - SVMs | [x](https://files.gersteinlab.org/public-docs/2025/03.03/cbb752-25m8c-ML-supervised-SVMs.pdf) | [x](https://files.gersteinlab.org/public-docs/2025/03.03/cbb752-25m8c-ML-supervised-SVMs.pptx)| [](https://youtu.be/ag71egQPz9w)[M8c](https://youtu.be/ag71egQPz9w) | [M8c](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.8c-Supervised-mining-SVMs.onweb.mp4) |
 |                              |  |  |  |  |  |
-| 25t3                         | Deep Learning Fundamentals I |  |  |  |  |
+| 25t3                         | Deep Learning Fundamentals I | [x](https://files.gersteinlab.org/public-docs/2025/03.04/cbb752b25_25t3.pdf) | [x](https://files.gersteinlab.org/public-docs/2025/03.04/cbb752b25_25t3.pptx)  |  |  |
 | 25t4                         | Deep Learning Fundamentals II |  |  |  |  |
 |                              |  |  |  |  |  |
 | 25m9a                        | Unsupervised Data Mining - Clustering | [x](https://files.gersteinlab.org/public-docs/2025/03.03/cbb752-25m9a-ML-unsupervised-clustering.pdf) | [x](https://files.gersteinlab.org/public-docs/2025/03.03/cbb752-25m9a-ML-unsupervised-clustering.pptx)| [](https://youtu.be/9hDw_aLzSPw)[M9a](https://youtu.be/9hDw_aLzSPw) | [M9a](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.9a.Unsupervised-mining-clustering.onweb.mp4) |
@@ -96,7 +96,7 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 | 25m11a                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
 | 25m11b                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
 |                              |  |  |  |  |  |
-| 25t2                         | Image Analysis |  |  |  | [](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4)[22m11](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4) |
+| 25t2                         | Image Analysis | [x](https://files.gersteinlab.org/public-docs/2025/03.10/cbb752b25_25t2.pdf) | [x](https://files.gersteinlab.org/public-docs/2025/03.10/cbb752b25_25t2.pptx) |  | [](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4)[22m11](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4) |
 |                              |  |  |  |  |  |
 | 25m12a                       | Deep Learning III |  |  | [M12a](https://youtu.be/Y6hbdHspbr0) | [M12a](http://files.gersteinlab.org/media/videos/331.mp4) |
 | 25m12b                       | Deep Learning IV |  |  | [M12b](https://youtu.be/ctTXeAnYUSg) | [M12b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0405.mp4) |
