@@ -83,7 +83,9 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 | 25m9d                        | Unsupervised Data Mining - SVD extensions |  |  | [](https://youtu.be/dX_LVKsCee0)[M9d](https://youtu.be/dX_LVKsCee0) | [M9d](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.09d-datamining-unsupervised--rca-cca.onweb.mp4) |
 |                              |  |  |  |  |  |
 | [25m9e](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4)                        | Single Cell Analysis |  |  |  | [](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4)[23m9e](http://files2.gersteinlab.org/public-docs/2023/02.22/23m9e--cbb752-MG-spr23-singlecell.mp4) |
-| 25t1                         | Single Cell part 2 (mabye should renumber this!!) |  |  |  | [](http://files.gersteinlab.org/public-docs/2023/04.27/DB_lecture.mp4)[23t1](http://files.gersteinlab.org/public-docs/2023/04.27/DB_lecture.mp4) |
+| 25t1                         | Single Cell part 2 |  |  |  | [](http://files.gersteinlab.org/public-docs/2023/04.27/DB_lecture.mp4)[23t1](http://files.gersteinlab.org/public-docs/2023/04.27/DB_lecture.mp4) |
+|                              |  |  |  |  |  |
+| 25t2                         | Image Analysis | [x](https://files.gersteinlab.org/public-docs/2025/03.10/cbb752b25_25t2.pdf) | [x](https://files.gersteinlab.org/public-docs/2025/03.10/cbb752b25_25t2.pptx) |  | [](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4)[22m11](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4) |
 |                              |  |  |  |  |  |
 | 25m10a                       | Networks - Intro |  |  | [](https://youtu.be/KIEjigOPoq0)[M10a](https://youtu.be/KIEjigOPoq0) | [M10a](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.10a-network-topology-analysis.onweb.mp4) |
 | 25m10b                       | Networks - Network Quantities |  |  | [](https://youtu.be/tmgECW9Pjoo)[M10b](https://youtu.be/tmgECW9Pjoo) | [M10b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.10b-network-topology-analysis.onweb.mp4) |
@@ -95,8 +97,6 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 |                              |  |  |  |  |  |
 | 25m11a                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
 | 25m11b                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
-|                              |  |  |  |  |  |
-| 25t2                         | Image Analysis | [x](https://files.gersteinlab.org/public-docs/2025/03.10/cbb752b25_25t2.pdf) | [x](https://files.gersteinlab.org/public-docs/2025/03.10/cbb752b25_25t2.pptx) |  | [](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4)[22m11](http://files2.gersteinlab.org/public-docs/2022/03.14/22m11--cbb752-MG-spr22-biosensors.mp4) |
 |                              |  |  |  |  |  |
 | 25m12a                       | Deep Learning III |  |  | [M12a](https://youtu.be/Y6hbdHspbr0) | [M12a](http://files.gersteinlab.org/media/videos/331.mp4) |
 | 25m12b                       | Deep Learning IV |  |  | [M12b](https://youtu.be/ctTXeAnYUSg) | [M12b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0405.mp4) |
