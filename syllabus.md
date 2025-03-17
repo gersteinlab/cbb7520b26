@@ -91,8 +91,6 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 | 25m10c                       | Networks - Network Generation Models | [x](https://files.gersteinlab.org/public-docs/2025/03.17/cbb752-25m10c-network-generation.pptx)| [x](https://files.gersteinlab.org/public-docs/2025/03.17/cbb752-25m10c-network-generation.pdf) | [](https://youtu.be/FalSiWgVF3A)[M10c](https://youtu.be/FalSiWgVF3A) | [M10c](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-29mar21.10c-network-topology-analysis.onweb.mp4) |
 | 25m10e                       | Networks - Network Prediction | [x](https://files.gersteinlab.org/public-docs/2025/03.17/cbb752-25m10e-network-prediction.pptx)| [x](https://files.gersteinlab.org/public-docs/2025/03.17/cbb752-25m10e-network-prediction.pdf) |  | [](http://files2.gersteinlab.org/public-docs/2023/04.13/network/23m10e--cbb752-MG-spr23-network-prediction.mp4)[](http://files2.gersteinlab.org/public-docs/2023/04.13/network/23m10e--cbb752-MG-spr23-network-prediction.mp4) [25m10e](https://files.gersteinlab.org/public-docs/2025/03.17/cbb752-25m10e-network-prediction.mp4)|
 |                              |  |  |  |  |  |
-| 25i3                         | Transition - Mining to Modeling |  |  |  | [23i3](http://files2.gersteinlab.org/public-docs/2023/04.13/network/23i3--cbb752-MG-spr23-trans-mine2model.mp4) |
-|                              |  |  |  |  |  |
 | 25m11a                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
 | 25m11b                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
 |                              |  |  |  |  |  |
