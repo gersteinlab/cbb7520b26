@@ -119,20 +119,19 @@ The following two are short comments on the above paper. You should read these c
 * Temporal modelling using single-cell transcriptomics [[Link]](https://www.nature.com/articles/s41576-021-00444-7)
 * Single-cell landscape of immunological responses in patients with COVID-19 [[Link]](https://www.nature.com/articles/s41590-020-0762-x)
 
-<!-- ---
+---
 
-### Session 7, 3/30 or 3/31
+### Session 7, 2/27(Thur), 2/28(Fri), 3/3(Mon)
 
 #### Topic
-Additional Topics: Digital Phenotyping/Biosensors and Privacy
+Additional Topics: Biomedical Image analysis / Multimodal learning
 
 #### Reading Assignment
 
-* Digital Phenotyping Technology for a New Science of Behavior [[Link]](http://files2.gersteinlab.org/public-docs/2023/01.18/jama_insel_2017_vp_170119.pdf)
-* Emerging phenotyping strategies will advance our understanding of psychiatric genetics [[Link]](https://www.nature.com/articles/s41593-020-0609-7)
-* Contact Tracing Mobile Apps for COVID-19: Privacy Considerations and Related Trade-offs [[Link]](https://arxiv.org/pdf/2003.11511.pdf)
+* Multimodal biomedical AI [[Link]](https://www.nature.com/articles/s41591-022-01981-2)
+* A visual–language foundation model for pathology image analysis using medical Twitter [[Link]](https://www.nature.com/articles/s41591-023-02504-3)
 
----
+<!-- ---
 
 ### Session 8, 4/6 or 4/7
 
