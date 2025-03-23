@@ -121,7 +121,7 @@ The following two are short comments on the above paper. You should read these c
 
 ---
 
-### Session 7, 2/27(Thur), 2/28(Fri), 3/3(Mon)
+### Session 7, 3/27(Thur), 3/28(Fri), 4/3(Mon)
 
 #### Topic
 Additional Topics: Biomedical Image analysis / Multimodal learning
