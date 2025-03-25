@@ -5,9 +5,9 @@ layout: page
 
 ## Final Project
 
-<!-- Download the final project description [here](http://files2.gersteinlab.org/public-docs/2023/04.07/cbb752b23_final_v2.pdf).  
-See [here](https://docs.google.com/spreadsheets/d/12eF1q4HXe_D7Pig2947wOGnLPG8hf17inPpPseQwuFw/edit#gid=1373076059) for group assignments.
- -->
+Download the final project description [here](https://files.gersteinlab.org/public-docs/2025/03.24/cbb752b25_final_proj.pdf).  
+See [here](https://docs.google.com/spreadsheets/d/1wB-rFmO7tmdIaTIUGZ46Q2xM62f0D4mLE17KUS0X1Js/edit?gid=1247568473#gid=1247568473) for group assignments.
+
 **Key Due Dates**:
 
 * 3-minute recorded presentations: April 23rd, 11:59PM
