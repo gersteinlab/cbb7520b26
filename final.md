@@ -17,7 +17,7 @@ See [here](https://docs.google.com/spreadsheets/d/1wB-rFmO7tmdIaTIUGZ46Q2xM62f0D
 * Written report and other deliverables: April 30th, 11:59PM
 
 
-<!-- ### Zimmerome Project Summary
+### Zimmerome Project Summary
 The final project will involve teams of students performing analysis on Carl Zimmer's personal genome. Here is a summary of previous classes' projects:
 
 [Zimmerome Project Summary](https://lectures.gersteinlab.org/cbb752/zimmerone_projects_summary_2017-2023.pdf)
@@ -34,4 +34,3 @@ You can get a flavor for the Final Project by looking at the project from previo
 [Final Project from Spring 2021](http://cbb752b21.gersteinlab.org/final)  
 [Final Project from Spring 2020](http://cbb752b20.gersteinlab.org/final)    
 [Final Project from Spring 2019](http://cbb752b19.gersteinlab.org/final)
- -->
