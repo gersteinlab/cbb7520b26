@@ -131,9 +131,9 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 * Multimodal biomedical AI [[Link]](https://www.nature.com/articles/s41591-022-01981-2)
 * A visual–language foundation model for pathology image analysis using medical Twitter [[Link]](https://www.nature.com/articles/s41591-023-02504-3)
 
-<!-- ---
+---
 
-### Session 8, 4/6 or 4/7
+### Session 8,  4/3(Thur), 4/4(Fri), 4/7(Mon)
 
 #### Topic
 * Deep learning I
@@ -143,7 +143,7 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 * Deep learning for biology [[PDF]](https://www.nature.com/magazine-assets/d41586-018-02174-z/d41586-018-02174-z.pdf)
 
 
----
+<!-- ---
 
 ### Session 9, 4/13 or 4/14
 
