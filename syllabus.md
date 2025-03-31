@@ -94,7 +94,7 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 | 25m11a                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
 | 25m11b                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |[x](https://files.gersteinlab.org/public-docs/2025/03.30/cbb752-5m11b-privacy2.pdf) | [x](https://files.gersteinlab.org/public-docs/2025/03.30/cbb752-5m11b-privacy2.pptx) |  |  |
 |                              |  |  |  |  |  |
-| 25m12a                       | Deep Learning III |  |  | [M12a](https://youtu.be/Y6hbdHspbr0) | [M12a](http://files.gersteinlab.org/media/videos/331.mp4) |
+| 25m12a                       | Deep Learning III | [x](https://files.gersteinlab.org/public-docs/2025/03.30/Deep_Generative_Models_I_v2.pdf) |  | [](https://youtu.be/Y6hbdHspbr0) | [](http://files.gersteinlab.org/media/videos/331.mp4) [x](https://files.gersteinlab.org/public-docs/2025/03.30/cbb752b25_25m12a_trimmed.mp4)|
 | 25m12b                       | Deep Learning IV |  |  | [M12b](https://youtu.be/ctTXeAnYUSg) | [M12b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0405.mp4) |
 |                              |  |  |  |  |  |
 | 25s1                         | Protein Folding |  |  | [](https://youtu.be/kOjIV1C6LmI)[S1](https://youtu.be/kOjIV1C6LmI) | [](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4)[S1](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4) |
