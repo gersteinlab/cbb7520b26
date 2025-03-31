@@ -92,7 +92,7 @@ Please see [last year's syllabus](http://cbb752b23.gersteinlab.org/syllabus) (wi
 | 25m10e                       | Networks - Network Prediction | [x](https://files.gersteinlab.org/public-docs/2025/03.17/cbb752-25m10e-network-prediction.pptx)| [x](https://files.gersteinlab.org/public-docs/2025/03.17/cbb752-25m10e-network-prediction.pdf) |  | [](http://files2.gersteinlab.org/public-docs/2023/04.13/network/23m10e--cbb752-MG-spr23-network-prediction.mp4)[](http://files2.gersteinlab.org/public-docs/2023/04.13/network/23m10e--cbb752-MG-spr23-network-prediction.mp4) [25m10e](https://files.gersteinlab.org/public-docs/2025/03.17/cbb752-25m10e-network-prediction.mp4)|
 |                              |  |  |  |  |  |
 | 25m11a                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
-| 25m11b                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |  |  |  |  |
+| 25m11b                       | Privacy in Biomedical Data Science (esp. Genomic Privacy) |[x](https://files.gersteinlab.org/public-docs/2025/03.30/cbb752-5m11b-privacy2.pdf) | [x](https://files.gersteinlab.org/public-docs/2025/03.30/cbb752-5m11b-privacy2.pptx) |  |  |
 |                              |  |  |  |  |  |
 | 25m12a                       | Deep Learning III |  |  | [M12a](https://youtu.be/Y6hbdHspbr0) | [M12a](http://files.gersteinlab.org/media/videos/331.mp4) |
 | 25m12b                       | Deep Learning IV |  |  | [M12b](https://youtu.be/ctTXeAnYUSg) | [M12b](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0405.mp4) |
