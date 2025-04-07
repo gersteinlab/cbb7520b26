@@ -143,9 +143,9 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 * Deep learning for biology [[PDF]](https://www.nature.com/magazine-assets/d41586-018-02174-z/d41586-018-02174-z.pdf)
 
 
-<!-- ---
+---
 
-### Session 9, 4/13 or 4/14
+### Session 9, 4/10(Thur), 4/11(Fri), 4/14(Mon)
 
 
 #### Topic
@@ -155,7 +155,7 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 * Artificial intelligence powers protein-folding predictions [[Link]](https://www.nature.com/articles/d41586-021-03499-y)
 * Computed structures of core eukaryotic protein complexes [[Link]](https://www.science.org/doi/10.1126/science.abm4805)
 
----
+<!-- ---
 
 ### Session 10, 4/20 or 4/21
 
