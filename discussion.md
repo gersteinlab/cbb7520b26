@@ -157,7 +157,7 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 
 ---
 
-### Session 10, 4/20 or 4/21
+### Session 10, 4/17(Thur), 4/18(Fri), 4/21(Mon)
 
 #### Topic
 * Protein structure and biophysics
