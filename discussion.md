@@ -155,7 +155,7 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 * Artificial intelligence powers protein-folding predictions [[Link]](https://www.nature.com/articles/d41586-021-03499-y)
 * Computed structures of core eukaryotic protein complexes [[Link]](https://www.science.org/doi/10.1126/science.abm4805)
 
-<!-- ---
+---
 
 ### Session 10, 4/20 or 4/21
 
@@ -166,7 +166,7 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 * Zhou, AQ, O'Hern, CS, Regan, L (2011). Revisiting the Ramachandran plot from a new angle. Protein Sci., 20, 7:1166-71 [[PDF]](http://jamming.research.yale.edu/files/papers/rama.pdf)
 * Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem. Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf)
 * 
----
+<!-- ---
 
 ### Session 11, 4/27 or 4/28
 
