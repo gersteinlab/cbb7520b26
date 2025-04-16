@@ -10,7 +10,9 @@ See [here](https://docs.google.com/spreadsheets/d/1wB-rFmO7tmdIaTIUGZ46Q2xM62f0D
 
 **Key Due Dates**:
 
-* 3-minute recorded presentations: April 23rd, 11:59PM
+* 3-minute recorded presentations submission: April 22rd, 12 at noon. 
+
+* 3-minute recorded presentation day: April 23rd, 1pm. 
 
 * 15-minute presentations in discussion: April 24th, 25th, 28th
 
