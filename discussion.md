@@ -165,7 +165,7 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 #### Reading Assignment
 * Zhou, AQ, O'Hern, CS, Regan, L (2011). Revisiting the Ramachandran plot from a new angle. Protein Sci., 20, 7:1166-71 [[PDF]](http://jamming.research.yale.edu/files/papers/rama.pdf)
 * Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem. Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf)
-* 
+
 <!-- ---
 
 ### Session 11, 4/27 or 4/28
