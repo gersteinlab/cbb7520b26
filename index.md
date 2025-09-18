@@ -34,9 +34,9 @@ Link TBA
 | --- | --- | --- | 
 | Section 1 | Thursday 11:00-12:00  | YSB352 |
 | Section 2 | Thursday 15:00-16:00  | YSB352 | 
-| Section 3 | Thursday 19:00-20:00pm| YSB352 | 
-| Section 4 | Friday 11:00-12:00am| YSB352 |
-| Section 5 | Friday 14:00-15:00am| YSB352 |
+| Section 3 | Thursday 19:00-20:00| YSB352 | 
+| Section 4 | Friday 11:00-12:00| YSB352 |
+| Section 5 | Friday 14:00-15:00| YSB352 |
 
 
 
