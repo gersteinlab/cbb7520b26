@@ -41,10 +41,11 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
-| Zhiyuan Chu 	| ZC  | Bass 437	| zhiyuan.chu (at) yale.edu |
-| Suchen Zheng	| SZ  | 100 College St (9/F)	| suchen.zheng (at) yale.edu |
+| Anna Su	| AS  | Bass 437	| anna.su (at) yale.edu |
 | Michelle Yu   | MY  | 100 College St (9/F)	| michelle.yu (at) yale.edu |
-| Donglu Bai	| DB  | 100 College St (9/F)	| donglu.bai (at) yale.edu |
+| Suchen Zheng	| SZ  | 100 College St (9/F)	| suchen.zheng (at) yale.edu |
+| Weihao Zhao	| WZ  | Bass 437	| zhao.weihao (at) yale.edu |
+| Zhiyuan Chu 	| ZC  | Bass 437	| zhiyuan.chu (at) yale.edu |
 
 <!-- ## Canvs
 
