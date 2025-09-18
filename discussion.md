@@ -9,10 +9,11 @@ layout: page
 
 | Session | Time | Location | Note |
 | --- | --- | --- | --- |
-| Section 1 | Mon 11am-12am | YSB 352 | ZC |
+TBD
+<!-- | Section 1 | Mon 11am-12am | YSB 352 | ZC |
 | Section 2 | Thur 12-1pm  | YSB 352 | SZ |
 | Section 3 | Thur 1-2pm | YSB 352 | MY |
-| Section 4 | Fri 10-11am  | YSB 352 | DB |
+| Section 4 | Fri 10-11am  | YSB 352 | DB | -->
 
 ### Format
 
@@ -41,7 +42,7 @@ Reading assignments for discussion sessions are listed below:
 ### (Optional) Suggested Reading for Week 1
 * How to (seriously) read a scientific paper, on your own. [[Link]](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
----
+<!-- ---
 
 ### Session 1, 1/23(Thur), 1/24(Fri), 1/27(Mon)
 
@@ -164,7 +165,7 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 
 #### Reading Assignment
 * Zhou, AQ, O'Hern, CS, Regan, L (2011). Revisiting the Ramachandran plot from a new angle. Protein Sci., 20, 7:1166-71 [[PDF]](http://jamming.research.yale.edu/files/papers/rama.pdf)
-* Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem. Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf)
+* Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem. Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf) -->
 
 <!-- ---
 
