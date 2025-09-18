@@ -32,10 +32,11 @@ Link TBA
 
 | Session | Time | Location | 
 | --- | --- | --- | 
-| Section 1 | Monday 11:00-12:00pm  | YSB352 |
-| Section 2 | Thursday 12:00-1:00pm  | YSB352 | 
-| Section 3 | Thursday 1:00-2:00pm| YSB352 | 
-| Section 4 | Friday 10:00-11:00am| YSB352 |
+| Section 1 | Thursday 11:00-12:00  | YSB352 |
+| Section 2 | Thursday 15:00-16:00  | YSB352 | 
+| Section 3 | Thursday 19:00-20:00pm| YSB352 | 
+| Section 4 | Friday 11:00-12:00am| YSB352 |
+| Section 5 | Friday 14:00-15:00am| YSB352 |
 
 
 
@@ -98,7 +99,8 @@ For references, please refer the previous [Quiz Archive](/quiz)
 - There will be equivalent two homework assignments, particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
 ## Pages from previous years
-- 2025 Spring is the 27th time Bioinformatics has been taught at Yale. Pages for the 25 previous iterations of the class are available. Look at how things evolve!
+- 2025 Spring is the 28th time Bioinformatics has been taught at Yale. Pages for the 27 previous iterations of the class are available. Look at how things evolve!
+- [2025 Spring](https://cbb752b25.gersteinlab.org/)  - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/courseDetail?termCode=202501&courseNumber=752&subjectCode=CB%26B&numDays=7)
 - This course is not offered in 2024
 - [2023 Spring](https://cbb752b23.gersteinlab.org/)  - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/courseDetail?termCode=202301&courseNumber=752&subjectCode=CB%26B&numDays=7)
 - [2022 Spring](http://cbb752b22.gersteinlab.org) - [(Enrollment stats)](https://ivy.yale.edu/course-stats/course/courseDetail?termCode=202201&courseNumber=752&subjectCode=CB%26B&numDays=7)
