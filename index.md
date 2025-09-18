@@ -42,10 +42,10 @@ Link TBA
 
 ## Different headings for this class (5 variants)
 
-- CBB 752 / CPSC 752 - Grad. with programming
+- CBB 7520 / CPSC 7520 - Grad. with programming
   - This graduate-level version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
 
-- MB&B 752 / MCDB 752 - Grad. without programming
+- MB&B 7520 / MCDB 7520 - Grad. without programming
   - This graduate-level version of the course consists of lectures, in-class tests,
  discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. Unlike CBB752, there is no programming required.
 
@@ -58,7 +58,7 @@ Link TBA
 - MB&B 452 / MCDB 452 - Undergrad.
   - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from CBB752 can be substituted for the written work by permission of instructor.
 
-- S&DS 352 - Undergrad.
+- S&DS 3520 - Undergrad.
   - This undergraduate version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
 
 - Auditing
