@@ -56,7 +56,7 @@ This term we will be using Canvas for class discussion. The system is highly cat
 ## General Course Information 
 
 ### First Meeting
-The first lecture will be held on Mon. Jan 13th, 2025. 
+The first lecture will be held on Mon. Jan 12th, 2026. 
 
 ### Grading Policy
 We expect that this year the weighting scheme will be to a first approximation:
