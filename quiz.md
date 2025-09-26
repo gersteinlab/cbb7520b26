@@ -7,6 +7,14 @@ layout: page
 
 <ul>
 	<li>
+		Spring 2025:
+		<a href="http://cbb752b25.gersteinlab.org/">Main Page</a>,
+        <a href="https://files.gersteinlab.org/public-docs/2025/04.14/2025-quiz1-Keys.pdf">Quiz 1 key</a>,
+		<a href="https://files.gersteinlab.org/public-docs/2025/09.2/cbb752_hw1.pdf">HW1</a>, 
+		<a href="https://files.gersteinlab.org/public-docs/2025/05.13/Quiz2_Key.pdf">Quiz 2 key</a>,
+		<a href="http://files2.gersteinlab.org/public-docs/2023/04.06/cbb752b23_hw2_v2.pdf">HW2</a>, 
+	</li>
+	<li>
 		Spring 2023:
 		<a href="http://cbb752b23.gersteinlab.org/">Main Page</a>,
         <a href="http://files2.gersteinlab.org/public-docs/2023/05.09/quiz1key.pdf">Quiz 1 key</a>,

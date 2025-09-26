@@ -49,17 +49,11 @@ Link TBA
   - This graduate-level version of the course consists of lectures, in-class tests,
  discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. Unlike CBB752, there is no programming required.
 
-- MB&B 753b3 / MB&B 754b4 - Modules
-  - For graduate students the course can be broken up into two "modules" (each counting 0.5 credit towards MB&B course requirement):
-  - 753 - Biomedical Data Science: Mining (1st half of term)
-  - 754 - Biomedical Data Science: Modeling (2nd half of term)
-  - Each module consists of lectures, in-class tests, written problem sets, and a final, graduate level written project that is half the length of the full course's final project.
-
-- MB&B 452 / MCDB 452 - Undergrad.
-  - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from CBB752 can be substituted for the written work by permission of instructor.
-
-- S&DS 3520 - Undergrad.
+- S&DS 3520 - Undergrad. With programming
   - This undergraduate version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
+
+- MB&B 3520 / MCDB 3520 - Undergrad. Without programming
+  - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from S&DS 3520 can be substituted for the written work with permission of the instructor.
 
 - Auditing
   - This is allowed. We would strongly prefer if you would register for the class.
