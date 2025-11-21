@@ -5,18 +5,20 @@ layout: page
 
 ## Final Project
 
-Download the final project description [here](https://files.gersteinlab.org/public-docs/2025/03.24/cbb752b25_final_proj.pdf).  
-See [here](https://docs.google.com/spreadsheets/d/1wB-rFmO7tmdIaTIUGZ46Q2xM62f0D4mLE17KUS0X1Js/edit?gid=1247568473#gid=1247568473) for group assignments.
+Spring 2026 final project description will be available later in the semester.
+
+<!-- Download the final project description [here](https://files.gersteinlab.org/public-docs/2025/03.24/cbb752b25_final_proj.pdf).  
+See [here](https://docs.google.com/spreadsheets/d/1wB-rFmO7tmdIaTIUGZ46Q2xM62f0D4mLE17KUS0X1Js/edit?gid=1247568473#gid=1247568473) for group assignments. -->
 
 **Key Due Dates**:
 
-* 3-minute recorded presentations submission: April 22rd, 12 at noon. 
+* 3-minute recorded presentations submission: April 21rd, 12 at noon. 
 
-* 3-minute recorded presentation day: April 23rd, 1pm. 
+* 3-minute recorded presentation day: April 22rd, 1pm. 
 
-* 15-minute presentations in discussion: April 24th, 25th, 28th
+* 15-minute presentations in discussion: April 23rd, 24th
 
-* Written report and other deliverables: April 30th, 11:59PM
+* Written report and other deliverables: May 3rd, 11:59PM
 
 
 ### Zimmerome Project Summary
