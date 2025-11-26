@@ -106,4 +106,4 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 25s5                         | Simulation | [x](https://files.gersteinlab.org/public-docs/2025/04.18/cbb752-25s5-2025-04-PDB_and_AlphaFold_IW_CBB.pdf) | [x](https://files.gersteinlab.org/public-docs/2025/04.18/cbb752-25s5-2025-04-PDB_and_AlphaFold_IW_CBB.pptx) |  |
  -->
 
-See lab [permissions statement](https://sites.gersteinlab.org/permissions/) in relation to resusing any of the above material.
+<!-- See lab [permissions statement](https://sites.gersteinlab.org/permissions/) in relation to resusing any of the above material. -->
