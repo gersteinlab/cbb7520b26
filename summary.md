@@ -18,7 +18,7 @@ Due: One week after the lecture.
 ## How to write a lecture summary?
 Ready to put together a lecture summary? It’s simpler than it seems! Just follow the structure we’ve provided to make sure you cover the essentials—like key terms, main topics, and any references or comments. This approach helps you capture the core ideas in a way that’s easy to review later.
 
-[Click here to access the guide for your lecture summary](https://docs.google.com/document/d/1XzYHr5u7qeg3cV6oSYFaCWN-cRT30TSnS2IgqCVOvCc/edit?usp=sharing). It walks you through each part of the summary step-by-step, so you know exactly what to include. Happy summarizing!
+<!-- [Click here to access the guide for your lecture summary](https://docs.google.com/document/d/1XzYHr5u7qeg3cV6oSYFaCWN-cRT30TSnS2IgqCVOvCc/edit?usp=sharing). It walks you through each part of the summary step-by-step, so you know exactly what to include. Happy summarizing!
 
 ## Lecture summaries 
 
@@ -68,4 +68,4 @@ Ready to put together a lecture summary? It’s simpler than it seems! Just foll
 |                                              |                                                                                                                  | Contributors are not listed, or no evidence of collaboration.      | 0      |
 | Discussion/Comments<br>(1 points)            | Includes thoughtful discussion points or questions related to the lecture content.                               | Meaningful comments or discussion points are included.             | 1      |
 |                                              |                                                                                                                  | Comments are missing or irrelevant.                                | 0      |
-| Total                                        |                                                                                                                  |                                                                    | 10     |
+| Total                                        |                                                                                                                  |                                                                    | 10     | -->
