@@ -1,0 +1,14 @@
+# Jekyll build files
+_site/
+
+# Bundler
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
