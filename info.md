@@ -63,12 +63,12 @@ We expect that this year the weighting scheme will be to a first approximation:
 
 | Category	| % of Total Grade |
 |---|---|
-| Quiz 1 |	13% |
-| Quiz 2 |	13% |
+| Quiz 1 |	10% |
+| Quiz 2 |	10% |
 | Lecture Summary |	10% |
 | Discussion Section |	18% |
-| Homeworks	| 18% |
-| Final Project	| 28% |
+| Homeworks	| 31% |
+| Final Project	| 21% |
 
 
 
