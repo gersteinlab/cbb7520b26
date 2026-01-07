@@ -4,7 +4,7 @@ layout: page
 ---
 ## Course Survey
 
-Please fill [Course Survey ](https://forms.gle/V33WWUGLA5375D9D6)  by Jan 14th,2026
+Please fill [Course Survey ](https://forms.gle/V33WWUGLA5375D9D6)  by Jan 12 th,2026
 
 
 ## Contact Info

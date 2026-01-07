@@ -6,13 +6,21 @@ layout: page
 ## Weekly Discussion Sections & Readings
 
 ### Time and Location
-TBD
+
 <!-- | Session | Time | Location | Note |
 | --- | --- | --- | --- |
 | Section 1 | Mon 11am-12am | YSB 352 | ZC |
 | Section 2 | Thur 12-1pm  | YSB 352 | SZ |
 | Section 3 | Thur 1-2pm | YSB 352 | MY |
 | Section 4 | Fri 10-11am  | YSB 352 | DB | -->
+
+| Session | Time | Location | 
+| --- | --- | --- | 
+| Section 1 | Thur 11:00-11:50  | YSB352 |
+| Section 2 | Thur 15:00-15:50  | YSB352 | 
+| Section 3 | Thur 19:00-19:50| YSB352 | 
+| Section 4 | Fri 10:30-11:20| YSB352 |
+| Section 5 | Fri 13:30-14:20| YSB352 |
 
 ### Format
 
