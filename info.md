@@ -2,12 +2,9 @@
 title: Course Info
 layout: page
 ---
-<!-- ## Course Survey -->
+## Course Survey
 
-<!-- [1st Course Survey ](https://forms.gle/2qnXdeJAdvH4LTtu7)   Due Jan 12th,2025
-
-[2nd Course Survey ](https://forms.gle/pHDcGFrHrgL4Uf6K7)   Please finish by Jan 13th,2025 -->
-
+Please fill [Course Survey ](https://forms.gle/V33WWUGLA5375D9D6)  by Jan 14th,2026
 
 
 ## Contact Info
