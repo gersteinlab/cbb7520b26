@@ -3,11 +3,21 @@ title: Assignments
 layout: page
 ---
 
+# Homework 0
+
+Release Date: Week of Jan 12, 2026
+
+Due Date: Apr 29, 11:59pm  
+
+---
+
 # Homework 1
 
 Release Date: Week of Jan 26, 2026
 
 Due Date: Feb 22nd, 11:59pm  
+
+
 
 <!-- Assignemnt Documents: [URL](http://files2.gersteinlab.org/public-docs/2025/03.10/hw1.zip)  [updated version in March 10th] --> 
 
