@@ -11,8 +11,7 @@ This course aims to equip students with some of the concepts and skills relevant
 
 #### Course Survey
 
-If you are taking the class, please fill this [Course Survey](https://forms.gle/V33WWUGLA5375D9D6) out by the first day of class:
-Link TBA
+If you are taking the class, please fill this [Course Survey](https://forms.gle/V33WWUGLA5375D9D6) out by the first day of class. 
 
 ### Overall Flow of the Class
 
