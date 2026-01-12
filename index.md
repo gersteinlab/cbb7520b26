@@ -31,11 +31,11 @@ If you are taking the class, please fill this [Course Survey](https://forms.gle/
 
 | Session | Time | Location | 
 | --- | --- | --- | 
-| Section 1 | Thursday 11:35-12:25  | YSB352 |
-| Section 2 | Thursday 15:30-16:20  | YSB352 | 
-| Section 3 | Thursday 19:00-19:50| YSB352 | 
-| Section 4 | Friday 10:30-11:20| YSB352 |
-| Section 5 | Friday 13:30-14:20| YSB352 |
+| Section 1 | Thursday 11:35-12:25  | TBD |
+| Section 2 | Thursday 15:30-16:20  | TBD | 
+| Section 3 | Thursday 19:00-19:50| TBD | 
+| Section 4 | Friday 10:30-11:20| TBD |
+| Section 5 | Friday 13:30-14:20| TBD |
 
 
 ## Different headings for this class (5 variants)
