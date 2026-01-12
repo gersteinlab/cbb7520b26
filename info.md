@@ -21,6 +21,7 @@ cbb752 (at) gersteinlab.org
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
+| Hyunghoon Cho	     | HC | 101 College	| hoon.cho@yale.edu |
 | Corey O'Hern	     | CO | Mason Laboratory	| corey.ohern (at) yale.edu |
 | Jesse Rinehart	 | JR | West Campus	| jesse.rinehart (at) yale.edu |
 | Matthew Simon	     | MDS | West Campus	| matthew.simon (at) yale.edu |
