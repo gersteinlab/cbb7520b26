@@ -2,10 +2,6 @@
 title: Course Info
 layout: page
 ---
-## Course Survey
-
-Please fill [Course Survey ](https://forms.gle/V33WWUGLA5375D9D6)  by Jan 12 th,2026
-
 
 ## Contact Info
 
@@ -44,11 +40,11 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 | Weihao Zhao	| WZ  | Bass 437	| zhao.weihao (at) yale.edu |
 | Zhiyuan Chu 	| ZC  | Bass 437	| zhiyuan.chu (at) yale.edu |
 
-<!-- ## Canvs
+## Piazza
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and the TAs. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. 
 
-This term we will be using Canvas for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and the TAs. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Canvas Discussion.  -->
+Find our class page at: [Link to Piazza](https://piazza.com/yale/spring2026/mbb3520cbb7520cpsc7520mbb7520mcdb3520mcdb7520sds3520)
 
-<!-- Find our class page at: [Link to Piazza]() (TBA) -->
 
 ## General Course Information 
 

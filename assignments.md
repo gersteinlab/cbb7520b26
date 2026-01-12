@@ -9,6 +9,8 @@ Release Date: Week of Jan 12, 2026
 
 Due Date: Apr 28, 11:59pm  
 
+link to HW0: [URL](https://files.gersteinlab.org/public-docs/2026/01.12/cbb7520b26-hw0.pdf)
+
 ---
 
 # Homework 1

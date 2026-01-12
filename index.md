@@ -38,7 +38,6 @@ If you are taking the class, please fill this [Course Survey](https://forms.gle/
 | Section 5 | Friday 13:30-14:20| YSB352 |
 
 
-
 ## Different headings for this class (5 variants)
 
 - CBB 7520 / CPSC 7520 - Grad. with programming
