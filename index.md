@@ -11,7 +11,7 @@ This course aims to equip students with some of the concepts and skills relevant
 
 #### Course Survey
 
-If you are taking the class, please fill this out by the first day of class (Due date TBA):
+If you are taking the class, please fill this [Course Survey](https://forms.gle/V33WWUGLA5375D9D6) out by the first day of class:
 Link TBA
 
 ### Overall Flow of the Class
@@ -32,8 +32,8 @@ Link TBA
 
 | Session | Time | Location | 
 | --- | --- | --- | 
-| Section 1 | Thursday 11:00-11:50  | YSB352 |
-| Section 2 | Thursday 15:00-15:50  | YSB352 | 
+| Section 1 | Thursday 11:35-12:25  | YSB352 |
+| Section 2 | Thursday 15:30-16:20  | YSB352 | 
 | Section 3 | Thursday 19:00-19:50| YSB352 | 
 | Section 4 | Friday 10:30-11:20| YSB352 |
 | Section 5 | Friday 13:30-14:20| YSB352 |
