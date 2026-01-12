@@ -85,10 +85,10 @@ Quizes will comprise simple questions that you should be able to answer from the
 For references, please refer the previous [Quiz Archive](/quiz)
 
 ### Programming Assignments (Req'd for CBB and CS grad. students)
-- There will be two homework assignments. We will try to promote the idea of reproducible research and using version control system, specifically GitHub, in facilitating the process of homework submission.
+- There will be four homework assignments. We will try to promote the idea of reproducible research and using version control system, specifically GitHub, in facilitating the process of homework submission.
 
 ### Non-programming Assignments
-- There will be equivalent two homework assignments, particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
+- There will be equivalent four homework assignments, particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
 ## Pages from previous years
 - 2026 Spring is the 28th time Bioinformatics has been taught at Yale. Pages for the 27 previous iterations of the class are available. Look at how things evolve!
@@ -111,6 +111,6 @@ For references, please refer the previous [Quiz Archive](/quiz)
 - [2009 and earlier (12 years of classes, staring in '98)](http://www.gersteinlab.org/courses/452/10-spring/previous.html) (Note the pre-2010 course was Genomics & Bioinformatics; after 2010, the course contains all of the "Bioinformatics" of previous years and then more (!) with less "Genomics".)
 
 
-## Class data dump
+<!-- ## Class data dump
 - Syllabus and class info dump in single PDF file: [PDF](http://files2.gersteinlab.org/public-docs/2022/10.26/cbb752b23_syllabus.pdf)
-- Class poster: [pdf](http://files2.gersteinlab.org/public-docs/2022/10.26/cbb752b23_poster_A4.pdf)
+- Class poster: [pdf](http://files2.gersteinlab.org/public-docs/2022/10.26/cbb752b23_poster_A4.pdf) -->
