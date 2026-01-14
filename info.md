@@ -35,7 +35,7 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
-| Anna Su	| AS  | Bass 437	| anna.su (at) yale.edu |
+| Anna Su	| AS  | Bass 341	| anna.su (at) yale.edu |
 | Michelle Yu   | MY  | 100 College St (9/F)	| michelle.yu (at) yale.edu |
 | Suchen Zheng	| SZ  | 100 College St (9/F)	| suchen.zheng (at) yale.edu |
 | Weihao Zhao	| WZ  | Bass 437	| zhao.weihao (at) yale.edu |
