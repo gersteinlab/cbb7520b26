@@ -15,8 +15,8 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | ---- | ----------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1/12 | \*YALE\* Spring term classes begin, 8.20 a.m.                                                         |                       |                                                                          |                                                                                                                         |                 |
 |      |                                                                                                       |                       |                                                                          |                                                                                                                         |                 |
-| 1/12 | Introduction                                                                                          |             | <span style="color:silver">25i1-25i2a</span>                            |                                                                                                                         |                 |
-| 1/14 | DATA 3 - Proteomics I                                                                                   |                   | <span style="color:silver">25d3</span>                                   |  |                |
+| 1/12 | Introduction                                                                                          | 26i1-26i2a            | <span style="color:silver">25i1-25i2a</span>                            |                                                                                                                         |                 |
+| 1/14 | DATA 3 - Proteomics I                                                                                   | 26d3              | <span style="color:silver">25d3</span>                                   | [Study Guide](https://files.gersteinlab.org/public-docs/2026/01.14/proteomics-overview-and-lecture-study-guide.docx) |                |
 | 1/19 | Martin Luther King Jr. Day; classes do not meet                                                                                  |                   |                                    |  |               |
 | 1/21 | DATA 4 - Proteomics II                                                                                     |                   | <span style="color:silver">25d4</span>                                   |                                                                                                                         |                 |
 | 1/26 | DATA 1 - Genomics I                                                                                    |                   | <span style="color:silver">25d1</span>                                   |                                                                                                                         |                 |
@@ -48,6 +48,15 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 4/24 | \*YALE\* Classes end; Reading period begins                                                                       |                       |                                                                          |                                                                                                                         |                 |
 | 4/29  | \*YALE\* Final examinations begin                                                                     |                       |                                                                          |                                                                                                                         |                 |
 | 5/6  | \*YALE\* Final examinations end                                                                       |                       |                                                                          |                                                                                                                         |
+
+
+### Lecture Slide Pack
+
+| # | Topic | PDF | PPT | Youtube ('21) | MPEG |
+| - | ----- | --- | --- | ------------- | ---- |
+| 26i1-26i2a | Introduction to Biomedical Data Science & Introduction to Personal Genomes | [x](https://files.gersteinlab.org/public-docs/2026/01.14/cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pdf) | [x](cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pptx) |  |  |
+|  |  |  |  |  |  |
+| 26d3 | DATA - Proteomics I - Proteins | [x](https://files.gersteinlab.org/public-docs/2026/01.14/CBB_752_2026_Proteins_26d3.pdf) |  |  |  |
 
 
 <!-- ### Lecture Slide Pack
