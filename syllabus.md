@@ -54,9 +54,9 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 
 | # | Topic | PDF | PPT | Youtube ('21) | MPEG |
 | - | ----- | --- | --- | ------------- | ---- |
-| 26i1-26i2a | Introduction to Biomedical Data Science & Introduction to Personal Genomes | [x](https://files.gersteinlab.org/public-docs/2026/01.14/cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pdf) | [x](cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pptx) |  |  |
+| 26i1-26i2a | Introduction to Biomedical Data Science & Introduction to Personal Genomes | [x](https://files.gersteinlab.org/public-docs/2026/01.14/cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pdf) | [x](cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pptx) | [i1](https://www.youtube.com/watch?v=0B9BYt5bV84),[i2a](https://www.youtube.com/watch?v=K_Q-17uWlxo) | [25i1-i2a](https://files.gersteinlab.org/public-docs/2026/01.15/cbb752b25-25i1-25i2a--intro-course-n-personal-genomes.mp4) |
 |  |  |  |  |  |  |
-| 26d3 | DATA - Proteomics I - Proteins | [x](https://files.gersteinlab.org/public-docs/2026/01.14/CBB_752_2026_Proteins_26d3.pdf) |  |  |  |
+| 26d3 | DATA - Proteomics I - Proteins | [x](https://files.gersteinlab.org/public-docs/2026/01.14/CBB_752_2026_Proteins_26d3.pdf) |  | [D3](https://youtube.com/watch?v=sH_FU9GlwU8&feature=youtu.be) |  |
 
 
 <!-- ### Lecture Slide Pack
