@@ -40,7 +40,7 @@ If you are taking the class, please fill this [Course Survey](https://forms.gle/
 
 ## Different headings for this class (5 variants)
 
-- CBB 7520 / CPSC 7520 - Grad. with programming
+- CBB 7520 / CPSC 7520 / S&DS 5520 - Grad. with programming
   - This graduate-level version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
 
 - MB&B 7520 / MCDB 7520 - Grad. without programming
@@ -64,7 +64,7 @@ Students should have:
 - A basic knowledge of biochemistry and molecular biology.
 - A knowledge of basic quantitative concepts, such as single variable calculus, basic probability & statistics, and basic programming skills.
 
-These can be fulfilled by: MBB 200 and Mathematics 115 or permission of the instructor.
+These can be fulfilled by: MBB 3010 and Mathematics 1150 or permission of the instructor.
 
 ### Class materials
 
