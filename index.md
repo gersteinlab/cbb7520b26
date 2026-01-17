@@ -40,12 +40,12 @@ If you are taking the class, please fill this [Course Survey](https://forms.gle/
 
 ## Different headings for this class (5 variants)
 
-- CBB 7520 / CPSC 7520 / S&DS 5520 - Grad. with programming
+- CB&B 7520 / CPSC 7520 / S&DS 5520 - Grad. with programming
   - This graduate-level version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
 
 - MB&B 7520 / MCDB 7520 - Grad. without programming
   - This graduate-level version of the course consists of lectures, in-class tests,
- discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. Unlike CBB752, there is no programming required.
+ discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. Unlike CB&B 7520, there is no programming required.
 
 - S&DS 3520 - Undergrad. With programming
   - This undergraduate version of the course consists of lectures, in-class tests, discussion section, programming assignments, and a final programming project.
