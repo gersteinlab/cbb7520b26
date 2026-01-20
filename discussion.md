@@ -51,7 +51,7 @@ Reading assignments for discussion sessions are listed below:
 ### (Optional) Suggested Reading for Week 1
 * How to (seriously) read a scientific paper, on your own. [[Link]](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
-<!-- ---
+
 
 ### Session 1, 1/23(Thur), 1/24(Fri), 1/27(Mon)
 
@@ -61,8 +61,9 @@ Reading assignments for discussion sessions are listed below:
 #### Reading Assignment
 * A draft map of the human proteome. Nature 509,575–581 (29 May 2014) [[PDF]](https://www.nature.com/articles/nature13302.pdf)
 * Mass-spectrometry-based draft of the human proteome. Nature 509, 582–587 (29 May 2014) [[PDF]](https://www.nature.com/articles/nature13319.pdf)
-
 ---
+
+<!-- 
 
 ### Session 2, 1/30(Thur), 1/31(Fri), 2/3(Mon)
 
