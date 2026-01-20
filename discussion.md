@@ -18,11 +18,11 @@ Starting the second week of class. No sections on Jan 15 and 16.
 
 | Session | Time | Location | 
 | --- | --- | --- | 
-| Section 1 | Thursday 11:35-12:25  | TBD |
-| Section 2 | Thursday 15:30-16:20  | TBD | 
-| Section 3 | Thursday 19:00-19:50| TBD | 
-| Section 4 | Friday 10:30-11:20| TBD |
-| Section 5 | Friday 13:30-14:20| TBD |
+| Section 1 | Thursday 11:35-12:25  | WTS B41 |
+| Section 2 | Thursday 15:30-16:20  | YK220 003 | 
+| Section 3 | Thursday 19:00-19:50| WTS B62 | 
+| Section 4 | Friday 10:30-11:20| YSB 253 |
+
 
 ### Format
 
