@@ -63,9 +63,9 @@ Reading assignments for discussion sessions are listed below:
 * Mass-spectrometry-based draft of the human proteome. Nature 509, 582–587 (29 May 2014) [[PDF]](https://www.nature.com/articles/nature13319.pdf)
 
 
-<!-- 
+---
 
-### Session 2, 1/30(Thur), 1/31(Fri), 2/3(Mon)
+### Session 2, 1/29(Thur), 1/30(Fri)
 
 
 #### Topic
@@ -76,7 +76,7 @@ Reading assignments for discussion sessions are listed below:
 * Wheeler DA et al. "The complete genome of an individual by massively parallel DNA sequencing,” Nature. 452:872-876 (2008) [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/WatsonGenome.pdf)
 * Logsdon GA et al. "Long-read human genome sequencing and its applications" Nature Reviews Genetics. 21:597-614 (2020) [[PDF]](https://www.nature.com/articles/s41576-020-0236-x.pdf)
 
----
+<!---
 
 ### Session 3, 2/6(Thur), 2/7(Fri), 2/10(Mon)
 
