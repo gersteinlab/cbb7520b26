@@ -20,7 +20,7 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 1/19 | Martin Luther King Jr. Day; classes do not meet                                                                                  |                   |                                    |  |               |
 | 1/21 | DATA 4 - Proteomics II                                                                                     | 26d4              | <span style="color:silver">25d4</span>                                   |                                                                                                                         |                 |
 | 1/26 | DATA 1 - Genomics I                                                                                    | 26d1              | <span style="color:silver">25d1</span>                                   |                                                                                                                         |                 |
-| 1/28 | DATA 2 - Genomics II                                                           |                   | <span style="color:silver">25d2</span>                                   |                                                                                                                         |                |
+| 1/28 | DATA 2 - Genomics II                                                           | 26d2              | <span style="color:silver">25d2</span>                                   |                                                                                                                         |                |
 | 2/2 | DATA 5 - Knowledge Representation & Databases                                                           |             | <span style="color:silver">25d5</span>                            |                                                                                                                          |              |
 | 2/4 | MINING - Personal Genomes + Seq. Comparison                                |             | <span style="color:silver">25i2b,23m3</span>                      |                                                                                                                        |             |
 | 2/9 | MINING -  Seq. Comparison (con't) + Multi-seq Alignment + Fast Alignment | | <span style="color:silver">25m3, 25m4, 25m5</span>                |                                                                                                                         |     |
@@ -60,6 +60,7 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26d4 | DATA - Proteomics II - Structure | [x](https://files.gersteinlab.org/public-docs/2026/01.21/CBB_752_Structure_2026.pdf) |  | [D4](https://www.youtube.com/watch?v=S9uSLQ0qf08&feature=youtu.be) |  |
 |  |  |  |  |  |  |
 | 26d1 | DATA - Genomics I | [x](https://files.gersteinlab.org/public-docs/2026/01.26/260126_Genomics_I.pdf) |  | [D1](https://www.youtube.com/watch?v=1Ns--G_v4pY&t=3359s) |  |
+| 26d2 | DATA - Genomics II | [x](https://files.gersteinlab.org/public-docs/2026/01.28/260128_Genomics_2.pdf) |  | [D2](https://www.youtube.com/watch?v=XYxxfF1O0Y4) |  |
 
 
 <!-- ### Lecture Slide Pack
