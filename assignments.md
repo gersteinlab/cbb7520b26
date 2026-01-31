@@ -19,7 +19,7 @@ Release Date: Week of Jan 26, 2026
 
 Due Date: Feb 22nd, 11:59pm  
 
-
+link to HW1: [URL](https://drive.google.com/drive/folders/1zsjqtmjfLGhMMiGxGedYlHwqeYLZFY90)
 
 <!-- Assignemnt Documents: [URL](http://files2.gersteinlab.org/public-docs/2025/03.10/hw1.zip)  [updated version in March 10th] --> 
 
