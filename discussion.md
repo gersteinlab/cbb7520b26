@@ -76,9 +76,9 @@ Reading assignments for discussion sessions are listed below:
 * Wheeler DA et al. "The complete genome of an individual by massively parallel DNA sequencing,” Nature. 452:872-876 (2008) [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/WatsonGenome.pdf)
 * Logsdon GA et al. "Long-read human genome sequencing and its applications" Nature Reviews Genetics. 21:597-614 (2020) [[PDF]](https://www.nature.com/articles/s41576-020-0236-x.pdf)
 
-<!---
+---
 
-### Session 3, 2/6(Thur), 2/7(Fri), 2/10(Mon)
+### Session 3, 2/5(Thur), 2/6(Fri)
 
 #### Topic
 * Debate I
@@ -88,9 +88,9 @@ Reading assignments for discussion sessions are listed below:
   * (Main paper) Salzberg et al. CHESS paper using GTEx [[PDF]](https://www.biorxiv.org/content/early/2018/05/29/332825.full.pdf)
   * (Main paper) GENCODE's rebuttal [[PDF]](https://www.biorxiv.org/content/early/2018/07/02/360602.full.pdf)
   * (Optional) New human gene tally reignites debate [[News Article]](https://www.nature.com/articles/d41586-018-05462-w)
-* (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable)
+* (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable) -->
 
---
+<!-- --
 ### Session 4, 2/13(Thur), 2/14(Fri), 2/17(Mon)
 
 #### Topic 
@@ -187,4 +187,4 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 
 #### Reading Assignment
 * (no reading assignment this week)
-  -->
+  --> 
