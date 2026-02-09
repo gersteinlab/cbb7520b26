@@ -1,8 +1,18 @@
 #	Topic	PDF	PPT	Youtube (�21)	MPEG    Lecture Summary
 26i1-26i2a	Introduction to Biomedical Data Science & Introduction to Personal Genomes	[x](https://files.gersteinlab.org/public-docs/2026/01.14/cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pdf)	[x](cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pptx)	"[i1](https://www.youtube.com/watch?v=0B9BYt5bV84),[i2a](https://www.youtube.com/watch?v=K_Q-17uWlxo)"	[25i1-i2a](https://files.gersteinlab.org/public-docs/2026/01.15/cbb752b25-25i1-25i2a--intro-course-n-personal-genomes.mp4)  [26i1-26i2a](https://files.gersteinlab.org/public-docs/2026/01.29/lecture_summary_26i1-26i2a_task2_synthesized_summary.pdf)   
     
-26d3	DATA - Proteomics I - Proteins	[x](https://files.gersteinlab.org/public-docs/2026/01.14/CBB_752_2026_Proteins_26d3.pdf)		[D3](youtube.com/watch?v=sH_FU9GlwU8&feature=youtu.be)	    [26d3](https://files.gersteinlab.org/public-docs/2026/01.29/lecture_summary_26d3_task2_synthesized_summary.pdf)
+26d3	DATA - Proteomics I - Proteins	[x](https://files.gersteinlab.org/public-docs/2026/01.14/CBB_752_2026_Proteins_26d3.pdf),[Study Guide](https://files.gersteinlab.org/public-docs/2026/01.14/proteomics-overview-and-lecture-study-guide.docx)		[D3](youtube.com/watch?v=sH_FU9GlwU8&feature=youtu.be)	    [26d3](https://files.gersteinlab.org/public-docs/2026/01.29/lecture_summary_26d3_task2_synthesized_summary.pdf)
 26d4    DATA - Proteomics II - Structure [x](https://files.gersteinlab.org/public-docs/2026/01.21/CBB_752_Structure_2026.pdf)       [D4](https://www.youtube.com/watch?v=S9uSLQ0qf08&feature=youtu.be)  
     
 26d1    DATA - Genomics I   [x](https://files.gersteinlab.org/public-docs/2026/01.26/260126_Genomics_I.pdf)     [D1](https://www.youtube.com/watch?v=1Ns--G_v4pY&t=3359s)       
-26d2    DATA - Genomics II  [x](https://files.gersteinlab.org/public-docs/2026/01.28/260128_Genomics_2.pdf)     [D2](https://www.youtube.com/watch?v=XYxxfF1O0Y4)       
+26d2    DATA - Genomics II  [x](https://files.gersteinlab.org/public-docs/2026/01.28/260128_Genomics_2.pdf)     [D2](https://www.youtube.com/watch?v=XYxxfF1O0Y4)
+    
+26d5    Knowledge Representation & Databases                    
+    
+26d6    ELSI issues     [x](https://files.gersteinlab.org/public-docs/2026/02.09/26d6--dovs-class.pdf)  [x](https://files.gersteinlab.org/public-docs/2026/02.09/26d6--dovs-class.pptx)     [26d6](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26d6-dov-class.mp4)
+    
+26m3    Sequence Comparison [x](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m3-seqcmp.pdf)    [x](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m3-seqcmp.pptx)       [26m3](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m3-seqcmp.mp4) 
+26m4    Multiple Sequence Comparison    [x](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m4-multiseq.pdf)    [x](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m4-multiseq.pptx)       [26m4](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m4-multiseq.mp4) 
+26m5    Fast Alignment
+26m6a   Variant Identification
+25m6b   1000 Genome + PCAWG summary

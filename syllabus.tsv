@@ -2,17 +2,17 @@
 12-Jan	"*YALE* Spring term classes begin, 8.20 a.m."			
 					
 12-Jan	Introduction	26i1-26i2a	25i1-25i2a	
-14-Jan	DATA 3 - Proteomics I	26d3	25d3	[Study Guide](https://files.gersteinlab.org/public-docs/2026/01.14/proteomics-overview-and-lecture-study-guide.docx)	
+14-Jan	DATA 3 - Proteomics I	26d3	25d3		
 19-Jan	Martin Luther King Jr. Day; classes do not meet				
 21-Jan	DATA 4 - Proteomics II	26d4	25d4		
 26-Jan	DATA 1 - Genomics I		26d1	25d1		
 28-Jan	DATA 2 - Genomics II	26d2	25d2		
 2-Feb	DATA 5 - Knowledge Representation & Databases		25d5		
-4-Feb	MINING - Personal Genomes + Seq. Comparison 		"25i2b,23m3"		
-9-Feb	MINING -  Seq. Comparison (con't) + Multi-seq Alignment + Fast Alignment		"25m3, 25m4, 25m5"		
-11-Feb	MINING -  Variant Calling (incl. a focused section on SVs)+ Basic Multi-Omics 		"25m6a，25m6b, 25m7   "		
-16-Feb	Quiz on 1st Half				
-18-Feb	MINING - Basic Multi-Omics(con’t) + GWAS/QTL + Supervised Mining (DT+ SVM)		"25m7, 25m8a, 25m8b        "		
+4-Feb	MINING - ELSI issues + Seq. Comparison + Multi-seq Alignment	26d6,26m3,26m4	"23m3,25m4"		
+9-Feb	MINING -  Fast Alignment + Variant Calling + Basic Multi-Omics 	26m5,26m6a,26m6b,26m7-part1	"25m5,25m6a，25m6b,25m7-part1"		
+11-Feb	MINING -  Basic Multi-Omics		"25m7"		
+16-Feb	Quiz on 1st Half		[study guide](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752_b26_quiz1_study_guide.pdf)		
+18-Feb	MINING - GWAS/QTL + Supervised Mining (DT+ SVM)		"25m8a, 25m8b        "		
 23-Feb	MINING - Supervised Mining #2 + Network Prediction+ Unsupervised Mining		"25m8c, 25m10e, 25m9a, 25m9c "		
 25-Feb	MINING - Deep Learning Fundamentals #1 + #2		"25t3, 25t4"		
 2-Mar	MINING - Biomed. Image Processing + RNN + GNN 		25t2		
