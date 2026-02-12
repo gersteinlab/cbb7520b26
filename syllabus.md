@@ -24,9 +24,9 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 2/2 | DATA 5 - Knowledge Representation & Databases                                                           |             | <span style="color:silver">25d5</span>                            |                                                                                                                          |
 | 2/4 | MINING - ELSI issues + Seq. Comparison + Multi-seq Alignment                                | 26d6,26m3,26m4            | <span style="color:silver">23m3,25m4</span>                      |                                                                                                                        |
 | 2/9 | MINING -  Fast Alignment + Variant Calling + Basic Multi-Omics | 26m5,26m6a,26m6b,26m7-part1 | <span style="color:silver">25m5,25m6a,25m6b,25m7-part1</span>                |                                                                                                                         |
-| 2/11 | MINING -  Basic Multi-Omics                                                                                       | | <span style="color:silver">25m7</span>                               |                                                                                                                                            |
+| 2/11 | MINING - Basic Multi-Omics, GWAS/QTL + Supervised Mining (DT+ SVM)                                                | 26m7p2, 26m7p3, 26m8a+b, 26m8c | <span style="color:silver">25m7,25m8a, 25m8b</span>                               |                                                                                                                                            |
 | 2/16 | Quiz on 1st Half | |                             | [study guide](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752_b26_quiz1_study_guide.pdf)                                                                                                                        |
-| 2/18 | MINING - GWAS/QTL + Supervised Mining (DT+ SVM) 					|                      | <span style="color:silver">25m8a, 25m8b</span>                            |                                                                                                                         |
+| 2/18 | MINING - 					|                      | <span style="color:silver"></span>                            |                                                                                                                         |
 | 2/23 | MINING - Supervised Mining #2 + Network Prediction+ Unsupervised Mining		|                      | <span style="color:silver">25m8c, 25m10e, 25m9a, 25m9c</span>                           |                                                                                                                         |
 | 2/25 | MINING - Deep Learning Fundamentals #1 + #2  |                      | <span style="color:silver">25t3, 25t4</span>                                   |                                                                                                                         |
 | 3/2  | MINING - Biomed. Image Processing + RNN + GNN 										|                      | <span style="color:silver">25t2</span> |                                                                                                                         |
@@ -62,15 +62,17 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26d1 | DATA - Genomics I | [x](https://files.gersteinlab.org/public-docs/2026/01.26/260126_Genomics_I.pdf) |  | [D1](https://www.youtube.com/watch?v=1Ns--G_v4pY&t=3359s) |  | [26d1](https://files.gersteinlab.org/public-docs/2026/02.10/lecture_summary_26d1_task2_synthesized_summary.pdf) |
 | 26d2 | DATA - Genomics II | [x](https://files.gersteinlab.org/public-docs/2026/01.28/260128_Genomics_2.pdf) |  | [D2](https://www.youtube.com/watch?v=XYxxfF1O0Y4) |  |  |
 |  |  |  |  |  |  |  |
-| 26d5 | Knowledge Representation & Databases |  |  |  |  | [26d5](https://files.gersteinlab.org/public-docs/2026/02.10/lecture_summary_26d5_task1.pdf) |
+| 26d5 | Knowledge Representation & Databases | [x](https://files.gersteinlab.org/public-docs/2026/02.12/linicalDB_Cheung_2026_v6.pdf) |  |  | [26d5](https://files.gersteinlab.org/public-docs/2026/02.12/26d5-trmmed.mp4) | [26d5](https://files.gersteinlab.org/public-docs/2026/02.10/lecture_summary_26d5_task1.pdf) |
 |  |  |  |  |  |  |  |
 | 26d6 | ELSI issues | [x](https://files.gersteinlab.org/public-docs/2026/02.09/26d6--dovs-class.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.09/26d6--dovs-class.pptx) |  | [26d6](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26d6-dov-class.mp4) |  |
 |  |  |  |  |  |  |  |
 | 26m3 | Sequence Comparison | [x](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m3-seqcmp.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m3-seqcmp.pptx) |  | [26m3](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m3-seqcmp.mp4) |  |
 | 26m4 | Multiple Sequence Comparison | [x](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m4-multiseq.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m4-multiseq.pptx) |  | [26m4](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26m4-multiseq.mp4) |  |
-| 26m5 | Fast Alignment |  |  |  |  |  |
-| 26m6a | Variant Identification |  |  |  |  |  |
-| 25m6b | 1000 Genome + PCAWG summary |  |  |  |  |  |
+| 26m5 | Fast Alignment | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m5-fastalign.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m5-fastalign.pptx) |  |  |  |
+| 26m6a | Variant Identification | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6a-SNVs-SVs.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6a-SNVs-SVs.pptx) |  |  |  |
+| 25m6b | 1000 Genome + PCAWG summary | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6b-1000G-PCAWG.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6b-1000G-PCAWG.pptx) |  |  |  |
+|  |  |  |  |  |  |  |
+| 25m7-part1 | Multi-omic Analyses & Endophenotypes | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pptx) |  |  |  |
 
 
 <!-- ### Lecture Slide Pack
