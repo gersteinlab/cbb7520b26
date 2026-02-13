@@ -62,7 +62,7 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26d1 | DATA - Genomics I | [x](https://files.gersteinlab.org/public-docs/2026/01.26/260126_Genomics_I.pdf) |  | [D1](https://www.youtube.com/watch?v=1Ns--G_v4pY&t=3359s) |  | [26d1](https://files.gersteinlab.org/public-docs/2026/02.10/lecture_summary_26d1_task2_synthesized_summary.pdf) |
 | 26d2 | DATA - Genomics II | [x](https://files.gersteinlab.org/public-docs/2026/01.28/260128_Genomics_2.pdf) |  | [D2](https://www.youtube.com/watch?v=XYxxfF1O0Y4) |  |  |
 |  |  |  |  |  |  |  |
-| 26d5 | Knowledge Representation & Databases | [x](https://files.gersteinlab.org/public-docs/2026/02.12/linicalDB_Cheung_2026_v6.pdf) |  |  | [26d5](https://files.gersteinlab.org/public-docs/2026/02.12/26d5-trmmed.mp4) | [26d5](https://files.gersteinlab.org/public-docs/2026/02.10/lecture_summary_26d5_task1.pdf) |
+| 26d5 | Knowledge Representation & Databases | [x](https://files.gersteinlab.org/public-docs/2026/02.12/ClinicalDB_Cheung_2026_v6.pdf) |  |  | [26d5](https://files.gersteinlab.org/public-docs/2026/02.12/26d5-trmmed.mp4) | [26d5](https://files.gersteinlab.org/public-docs/2026/02.10/lecture_summary_26d5_task1.pdf) |
 |  |  |  |  |  |  |  |
 | 26d6 | ELSI issues | [x](https://files.gersteinlab.org/public-docs/2026/02.09/26d6--dovs-class.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.09/26d6--dovs-class.pptx) |  | [26d6](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752-26d6-dov-class.mp4) |  |
 |  |  |  |  |  |  |  |
