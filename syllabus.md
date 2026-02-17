@@ -26,7 +26,7 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 2/9 | MINING -  Fast Alignment + Variant Calling + Basic Multi-Omics | 26m5,26m6a,26m6b,26m7-part1 | <span style="color:silver">25m5,25m6a,25m6b,25m7-part1</span>                |                                                                                                                         |
 | 2/11 | MINING - Basic Multi-Omics, GWAS/QTL + Supervised Mining (DT+ SVM)                                                | 26m7p2, 26m7p3, 26m8a+b, 26m8c | <span style="color:silver">25m7,25m8a, 25m8b</span>                               |                                                                                                                                            |
 | 2/16 | Quiz on 1st Half | |                             | [study guide](https://files.gersteinlab.org/public-docs/2026/02.09/cbb752_b26_quiz1_study_guide.pdf)                                                                                                                        |
-| 2/18 | MINING - 					|                      | <span style="color:silver"></span>                            |                                                                                                                         |
+| 2/18 | MINING - Personal Genome, Supervised Mining (DT+ SVM) (con't) | 26i2b, 26m8c | <span style="color:silver">25i2b, 25m8c</span> |  |
 | 2/23 | MINING - Supervised Mining #2 + Network Prediction+ Unsupervised Mining		|                      | <span style="color:silver">25m8c, 25m10e, 25m9a, 25m9c</span>                           |                                                                                                                         |
 | 2/25 | MINING - Deep Learning Fundamentals #1 + #2  |                      | <span style="color:silver">25t3, 25t4</span>                                   |                                                                                                                         |
 | 3/2  | MINING - Biomed. Image Processing + RNN + GNN 										|                      | <span style="color:silver">25t2</span> |                                                                                                                         |
@@ -72,7 +72,12 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26m6a | Variant Identification | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6a-SNVs-SVs.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6a-SNVs-SVs.pptx) |  |  |  |
 | 25m6b | 1000 Genome + PCAWG summary | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6b-1000G-PCAWG.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6b-1000G-PCAWG.pptx) |  |  |  |
 |  |  |  |  |  |  |  |
-| 25m7-part1 | Multi-omic Analyses & Endophenotypes | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pptx) |  |  |  |
+| 25m7-part1 | Multi-omic Analyses & Endophenotypes (RNA-seq & ChIP-seq) | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pptx) |  |  |  |
+| 25m7-part2 | Multi-omic Analyses & Endophenotypes (AS, GWAS & eQTL) | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part2-multiomics-AS-GWAS-eQTL.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part2-multiomics-AS-GWAS-eQTL.pptx) |  |  |  |
+| 25m7-part3 | Multi-omic Analyses & Endophenotypes (Biosensors) | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part3-multiomics-Biosensors.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part3-multiomics-Biosensors.pptx) |  |  |  |
+|  |  |  |  |  |  |  |
+| 25m8a+b | Supervised Mining: Preliminaries + Decision Trees | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m8a-26m8b--ML-supervised-ROC-DTs.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m8a-26m8b--ML-supervised-ROC-DTs.pptx) |  |  |  |
+|  |  |  |  |  |  |  |
 
 
 <!-- ### Lecture Slide Pack
