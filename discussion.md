@@ -90,7 +90,7 @@ Reading assignments for discussion sessions are listed below:
   * (Optional) New human gene tally reignites debate [[News Article]](https://www.nature.com/articles/d41586-018-05462-w)
 * (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable) -->
 
-<!-- --
+
 ### Session 4, 2/13(Thur), 2/14(Fri), 2/17(Mon)
 
 #### Topic 
@@ -102,7 +102,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 5, 2/20(Thur), 2/21(Fri), 2/24(Mon)
+### Session 5, 2/19(Thur), 2/20(Fri)
 
 #### Topic
 Debate II - Cancer incidence
@@ -119,7 +119,7 @@ The following two are short comments on the above paper. You should read these c
 
 ---
 
-
+<!-- 
 
 ### Session 6, 2/27(Thur), 2/28(Fri), 3/3(Mon)
 
