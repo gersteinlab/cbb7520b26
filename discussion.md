@@ -91,7 +91,7 @@ Reading assignments for discussion sessions are listed below:
 * (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable) -->
 
 
-### Session 4, 2/13(Thur), 2/14(Fri), 2/17(Mon)
+### Session 4, 2/12(Thur), 2/13(Fri)
 
 #### Topic 
 * Review Session for quiz
