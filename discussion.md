@@ -91,7 +91,7 @@ Reading assignments for discussion sessions are listed below:
 * (Optional) Why most published research finding are false [[PDF]](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable) -->
 
 
-### Session 4, 2/12(Thur), 2/13(Fri)
+### Session 4, 2/13(Thur), 2/14(Fri), 2/17(Mon)
 
 #### Topic 
 * Review Session for quiz
@@ -119,19 +119,20 @@ The following two are short comments on the above paper. You should read these c
 
 ---
 
-<!-- 
 
-### Session 6, 2/27(Thur), 2/28(Fri), 3/3(Mon)
+
+### Session 6, 2/26(Thur), 2/27(Fri), 3/3(Mon)
 
 #### Topic
-* Single Cell
+* Deep Learning I
 
 #### Reading Assignment
-* Temporal modelling using single-cell transcriptomics [[Link]](https://www.nature.com/articles/s41576-021-00444-7)
-* Single-cell landscape of immunological responses in patients with COVID-19 [[Link]](https://www.nature.com/articles/s41590-020-0762-x)
+* Obtaining genetics insights from deep learning via explainable artificial intelligence [[Link]](https://www.nature.com/articles/s41576-022-00532-2)
+* Transformers and genome language models [[Link]](https://www.nature.com/articles/s42256-025-01007-9)
 
 ---
 
+<!-- 
 ### Session 7, 3/27(Thur), 3/28(Fri), 3/31(Mon)
 
 #### Topic
@@ -157,6 +158,12 @@ Additional Topics: Biomedical Image analysis / Multimodal learning
 ---
 
 ### Session 9, 4/10(Thur), 4/11(Fri), 4/14(Mon)
+
+* Single Cell
+
+#### Reading Assignment
+* Temporal modelling using single-cell transcriptomics [[Link]](https://www.nature.com/articles/s41576-021-00444-7)
+* Single-cell landscape of immunological responses in patients with COVID-19 [[Link]](https://www.nature.com/articles/s41590-020-0762-x)
 
 
 #### Topic
