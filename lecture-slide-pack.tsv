@@ -1,6 +1,7 @@
 #	Topic	PDF	PPT	Youtube (�21)	MPEG    Lecture Summary
 26i1-26i2a	Introduction to Biomedical Data Science & Introduction to Personal Genomes	[x](https://files.gersteinlab.org/public-docs/2026/01.14/cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pdf)	[x](cbb7520b26-26i1-26i2a--intro-course-n-personal-genomes.pptx)	"[i1](https://www.youtube.com/watch?v=0B9BYt5bV84),[i2a](https://www.youtube.com/watch?v=K_Q-17uWlxo)"	[25i1-i2a](https://files.gersteinlab.org/public-docs/2026/01.15/cbb752b25-25i1-25i2a--intro-course-n-personal-genomes.mp4)  [26i1-26i2a](https://files.gersteinlab.org/public-docs/2026/01.29/lecture_summary_26i1-26i2a_task2_synthesized_summary.pdf)   
-    
+26i2b   An Individual’s Perspective on Personal Genomes [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb7520_26i2b_personal_genome.pdf) 
+
 26d3	DATA - Proteomics I - Proteins	[x](https://files.gersteinlab.org/public-docs/2026/01.14/CBB_752_2026_Proteins_26d3.pdf),[Study Guide](https://files.gersteinlab.org/public-docs/2026/01.14/proteomics-overview-and-lecture-study-guide.docx)		[D3](youtube.com/watch?v=sH_FU9GlwU8&feature=youtu.be)	    [26d3](https://files.gersteinlab.org/public-docs/2026/01.29/lecture_summary_26d3_task2_synthesized_summary.pdf)
 26d4    DATA - Proteomics II - Structure [x](https://files.gersteinlab.org/public-docs/2026/01.21/CBB_752_Structure_2026.pdf)       [D4](https://www.youtube.com/watch?v=S9uSLQ0qf08&feature=youtu.be)  
     
@@ -16,10 +17,14 @@
 26m5    Fast Alignment  [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m5-fastalign.pdf) [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m5-fastalign.pptx)      
 26m6a   Variant Identification  [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6a-SNVs-SVs.pdf) [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6a-SNVs-SVs.pptx)
 25m6b   1000 Genome + PCAWG summary [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6b-1000G-PCAWG.pdf) [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m6b-1000G-PCAWG.pptx)
-
-25m7-part1  Multi-omic Analyses & Endophenotypes (RNA-seq & ChIP-seq)    [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pdf) [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pptx)
-25m7-part2  Multi-omic Analyses & Endophenotypes (AS, GWAS & eQTL)    [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part2-multiomics-AS-GWAS-eQTL.pdf)  [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part2-multiomics-AS-GWAS-eQTL.pptx)
-25m7-part3  Multi-omic Analyses & Endophenotypes (Biosensors)    [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part3-multiomics-Biosensors.pdf)  [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part3-multiomics-Biosensors.pptx)
-
-25m8a+b Supervised Mining: Preliminaries + Decision Trees    [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m8a-26m8b--ML-supervised-ROC-DTs.pdf)  [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m8a-26m8b--ML-supervised-ROC-DTs.pptx)
-
+    
+26m7-part1  Multi-omic Analyses & Endophenotypes (RNA-seq & ChIP-seq)    [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pdf) [x](https://files.gersteinlab.org/public-docs/2026/02.12/cbb752-26m7-part1-multiomics-RNAseq-chipseq.pptx)
+26m7-part2  Multi-omic Analyses & Endophenotypes (AS, GWAS & eQTL)    [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part2-multiomics-AS-GWAS-eQTL.pdf)  [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part2-multiomics-AS-GWAS-eQTL.pptx)
+26m7-part3  Multi-omic Analyses & Endophenotypes (Biosensors)    [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part3-multiomics-Biosensors.pdf)  [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part3-multiomics-Biosensors.pptx)
+    
+26m8a+b Supervised Mining: Preliminaries + Decision Trees    [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m8a-26m8b--ML-supervised-ROC-DTs.pdf)  [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m8a-26m8b--ML-supervised-ROC-DTs.pptx)
+26m9a   Unsupervised Data Mining - Clustering   [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9a-ML-unsupervised-clustering.pdf)   [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9a-ML-unsupervised-clustering.pptx)
+26m9c   Unsupervised Data Mining - SVD  [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9c--ML-unsupervised-SVD-core.pdf)   [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9c--ML-unsupervised-SVD-core.pptx)
+    
+26m10a  Networks - Intro    [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10a-networks-intro.pdf)   [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10a-networks-intro.pptx)
+26m10e  Networks - Network Prediction   [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10e-network-prediction.pdf)   [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10e-network-prediction.pptx)
