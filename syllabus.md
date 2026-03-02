@@ -29,8 +29,8 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 2/18 | MINING - Personal Genome, Supervised Mining (DT+ SVM) (con't) | 26i2b, 26m8c | <span style="color:silver">25i2b, 25m8c</span> |  |
 | 2/23 | MINING - Supervised Mining #2 + Network Prediction+ Unsupervised Mining | 26m9a, 26m9c, 26m10a, 26m10e | <span style="color:silver">25m9a, 25m9c, 25m10a, 25m10e</span> |  |
 | 2/25 | MINING - Deep Learning Fundamentals #1 + #2 | 26t3, 26t4 | <span style="color:silver">25t3, 25t4</span> |  |
-| 3/2  | MINING - Biomed. Image Processing + RNN + GNN 										|                      | <span style="color:silver">25t2</span> |                                                                                                                         |
-| 3/4 | MINING - Gen AI  + Network Topo.                                                                                      |                         | <span style="color:silver">25m10a</span>                         |                                                                                                                         |
+| 3/2  | MINING - Biomed. Image Processing + RNN + GNN | 26t2, 26t5 | <span style="color:silver">25t2</span> |  |
+| 3/4 | MINING - Gen AI | 26t6 |  |  |
 |      |                                                                                                       |                       |                                                                          |                                                                                                                         |
 | 3/6  | Spring break begins                                                                                   |                       |                                                                          |                                                                                                                         |
 |      |                                                                                                       |                       |                                                                          |                                                                                                                         |
@@ -84,6 +84,13 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26m10a | Networks - Intro | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10a-networks-intro.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10a-networks-intro.pptx) |  |  |  |
 | 26m10e | Networks - Network Prediction | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10e-network-prediction.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10e-network-prediction.pptx) |  |  |  |
 |  |  |  |  |  |  |  |
+| 26t3 | Deep Learning Fundamentals #1 |  |  |  |  |  |
+| 26t4 | Deep Learning Fundamentals #2 |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| 26t2 | Biomedical Image Analysis | [x](https://files.gersteinlab.org/public-docs/2026/03.02/cbb752b26_26t2.pdf) |  |  |  |  |
+| 26t5 | RNN+GNN |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| 26t6 | Gen AI |  |  |  |  |  |
 
 
 <!-- ### Lecture Slide Pack
