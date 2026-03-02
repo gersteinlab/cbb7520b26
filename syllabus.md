@@ -87,7 +87,7 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26t3 | Deep Learning Fundamentals #1 |  |  |  |  |  |
 | 26t4 | Deep Learning Fundamentals #2 |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| 26t2 | Biomedical Image Analysis | [x](https://files.gersteinlab.org/public-docs/2026/03.02/cbb752b26_26t2.pdf) |  |  |  |  |
+| 26t2 | Biomedical Image Analysis |  |  |  |  |  |
 | 26t5 | RNN+GNN |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 | 26t6 | Gen AI |  |  |  |  |  |
