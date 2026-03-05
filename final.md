@@ -5,8 +5,6 @@ layout: page
 
 ## Final Project
 
-Spring 2026 final project description will be available later in the semester.
-
 Download the final project description [here](https://files.gersteinlab.org/public-docs/2026/03.05/CBB752_Final_Project_2026.pdf).  
 See [here](https://docs.google.com/spreadsheets/d/1pCBkZhWy8iyIbt7yHFKVp7XBkYLcJERLLZqxzqpiM74/edit?gid=1387698087#gid=1387698087) for group assignments and assigned Chromosome (X or Y). 
 
