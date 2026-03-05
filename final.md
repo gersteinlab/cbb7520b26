@@ -7,18 +7,18 @@ layout: page
 
 Spring 2026 final project description will be available later in the semester.
 
-<!-- Download the final project description [here](https://files.gersteinlab.org/public-docs/2025/03.24/cbb752b25_final_proj.pdf).  
-See [here](https://docs.google.com/spreadsheets/d/1wB-rFmO7tmdIaTIUGZ46Q2xM62f0D4mLE17KUS0X1Js/edit?gid=1247568473#gid=1247568473) for group assignments. -->
+Download the final project description [here](https://files.gersteinlab.org/public-docs/2026/03.05/CBB752_Final_Project_2026.pdf).  
+See [here](https://docs.google.com/spreadsheets/d/1pCBkZhWy8iyIbt7yHFKVp7XBkYLcJERLLZqxzqpiM74/edit?gid=1387698087#gid=1387698087) for group assignments and assigned Chromosome (X or Y). 
 
 **Key Due Dates**:
 
-* 3-minute recorded presentations submission: April 21rd, 12 at noon. 
+* 5-minute recorded presentations submission: April 22d, 12 at noon. 
 
-* 3-minute recorded presentation day: April 22rd, 1pm. 
+* 5-minute recorded presentation day: April 22rd, 1pm. (In class)
 
-* 15-minute presentations in discussion: April 23rd, 24th
+* 20-minute presentations in discussion: April 23rd, 24th. (discussionsection) 
 
-* Written report and other deliverables: May 3rd, 11:59PM
+* Written report and other deliverables: May 3rd, 11:59PM. (Canvas submission)
 
 
 ### Zimmerome Project Summary
