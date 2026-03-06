@@ -91,8 +91,8 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26t5 | RNN+GNN |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 | 26t6 | Gen AI |  |  |  |  |  |
-| 26m10b | Network Topology - Network Quantities |  | [x](http://meetings.gersteinlab.org/2026/03.04/cbb752-26m10b-network-quantities.pptx) |  |  |  |
-| 26m10c | Network Topology - Generation Models |  | [x](http://meetings.gersteinlab.org/2026/03.04/cbb752-26m10c-network-generation.pptx) |  |  |  |
+| 26m10b | Network Topology - Network Quantities |  |  |  |  |  |
+| 26m10c | Network Topology - Generation Models |  |  |  |  |  |
 
 
 <!-- ### Lecture Slide Pack
