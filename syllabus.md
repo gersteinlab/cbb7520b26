@@ -92,7 +92,7 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26t2 | Biomedical Image Analysis | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752b26_26t2_final.pdf) |  |  |  |  |
 | 26t5 | RNN+GNN |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| 26t6 | Gen AI |  |  |  |  |  |
+| 26t6 | Gen AI | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pptx) |  |  |  |
 
 
 <!-- ### Lecture Slide Pack
