@@ -78,10 +78,10 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26m7-part3 | Multi-omic Analyses & Endophenotypes (Biosensors) | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part3-multiomics-Biosensors.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m7-part3-multiomics-Biosensors.pptx) |  |  |  |
 |  |  |  |  |  |  |  |
 | 26m8a+b | Supervised Mining: Preliminaries + Decision Trees | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m8a-26m8b--ML-supervised-ROC-DTs.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.17/cbb752-26m8a-26m8b--ML-supervised-ROC-DTs.pptx) |  |  |  |
-| 26m9a | Unsupervised Data Mining - Clustering | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9a-ML-unsupervised-clustering.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9a-ML-unsupervised-clustering.pptx) |  |  |  |
-| 26m9c | Unsupervised Data Mining - SVD | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9c--ML-unsupervised-SVD-core.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9c--ML-unsupervised-SVD-core.pptx) |  |  |  |
+| 26m9a | Unsupervised Data Mining - Clustering | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9a-ML-unsupervised-clustering.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9a-ML-unsupervised-clustering.pptx) |  |  | [26m9a](https://files.gersteinlab.org/public-docs/2026/03.17/26m9a_lecture_summary_26m9a_task2_synthesized_summary.pdf) |
+| 26m9c | Unsupervised Data Mining - SVD | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9c--ML-unsupervised-SVD-core.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m9c--ML-unsupervised-SVD-core.pptx) |  |  | [26m9c](https://files.gersteinlab.org/public-docs/2026/03.17/26m9c_lecture_summary_26m9c_task2_synthesized_summary.pdf) |
 |  |  |  |  |  |  |  |
-| 26m10a | Networks - Intro | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10a-networks-intro.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10a-networks-intro.pptx) |  |  |  |
+| 26m10a | Networks - Intro | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10a-networks-intro.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10a-networks-intro.pptx) |  |  | [26m10a](https://files.gersteinlab.org/public-docs/2026/03.17/26m10a_lecture_summary_26m10a_task2_synthesized_summary.pdf) |
 | 26m10b | Networks - Quantities | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752-26m10b-network-quantities.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752-26m10b-network-quantities.pptx) |  |  |  |
 | 26m10c | Networks - Generation | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752-26m10c-network-generation.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752-26m10c-network-generation.pptx) |  |  |  |
 | 26m10e | Networks - Network Prediction | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10e-network-prediction.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10e-network-prediction.pptx) |  |  |  |
@@ -89,9 +89,9 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26t3 | Deep Learning Fundamentals #1 |  |  |  |  |  |
 | 26t4 | Deep Learning Fundamentals #2 |  |  |  |  |  |
 |  |  |  |  |  |  |  |
-| 26t2 | Biomedical Image Analysis | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752b26_26t2_final.pdf) |  |  |  |  |
+| 26t2 | Biomedical Image Analysis | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752b26_26t2_final.pdf) |  |  |  | [26t2](https://files.gersteinlab.org/public-docs/2026/03.17/26t2_lecture_summary_26t2_task2_synthesized_summary.pdf) |
 | 26t5 | RNN+GNN |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+|  |  |  |  |  |  | [26t5](https://files.gersteinlab.org/public-docs/2026/03.17/26t5_lecture_summary_26t5_task2_synthesized_summary.pdf) |
 | 26t6 | Gen AI | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pptx) |  |  |  |
 
 
