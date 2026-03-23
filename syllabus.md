@@ -35,7 +35,7 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 3/6  | Spring break begins                                                                                   |                       |                                                                          |                                                                                                                         |
 |      |                                                                                                       |                       |                                                                          |                                                                                                                         |
 | 3/23 | Class Resume, 8:20AM                                                            |                        |                                  |                                                                                                                         |
-| 3/23 | Deep Learning Advanced                                                           |                        | <span style="color:silver">25m12a, 25m12b</span>                                 |                                                                                                                         |
+| 3/23 | Deep Learning Advanced                                                           | 26m12                  | <span style="color:silver">25m12a, 25m12b</span>                                 |                                                                                                                         |
 | 3/25 | Single cell                                                                     |                      | <span style="color:silver">25m9e, 25t1</span>                                   |                                                                                                                         |
 | 3/30 | Privacy                                                                    |                        | <span style="color:silver">25m11a,25m11b</span>                                   |                                                                                                                         |
 | 4/1  | MODELING 1 - Protein Simulation I                                                                   |                       | <span style="color:silver">25s1</span>                                   |                                                                                                                         |
@@ -86,13 +86,14 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26m10c | Networks - Generation | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752-26m10c-network-generation.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752-26m10c-network-generation.pptx) |  |  |  |
 | 26m10e | Networks - Network Prediction | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10e-network-prediction.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/02.26/cbb752-26m10e-network-prediction.pptx) |  |  | [26m10e](https://files.gersteinlab.org/public-docs/2026/03.18/26m10e_lecture_summary_26m10e_task2_synthesized_summary.pdf) |
 |  |  |  |  |  |  |  |
-| 26t3 | Deep Learning Fundamentals #1 |  |  |  |  | [26t3](https://files.gersteinlab.org/public-docs/2026/03.18/26t3_lecture_summary_26t3_task2_synthesized_summary-1.pdf) |
-| 26t4 | Deep Learning Fundamentals #2 |  |  |  |  | [26t4](https://files.gersteinlab.org/public-docs/2026/03.18/26t4_lecture_summary_26t4_task2_synthesized_summary.pdf) |
+| 26t3 | Deep Learning Fundamentals #1 | [x](https://files.gersteinlab.org/public-docs/2026/03.02/cbb752b26_26t3.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.02/cbb752b26_26t3.pptx) |  |  | [26t3](https://files.gersteinlab.org/public-docs/2026/03.18/26t3_lecture_summary_26t3_task2_synthesized_summary-1.pdf) |
+| 26t4 | Deep Learning Fundamentals #2 | [x](https://files.gersteinlab.org/public-docs/2026/03.18/cbb752_26t4.pdf) |  |  |  | [26t4](https://files.gersteinlab.org/public-docs/2026/03.18/26t4_lecture_summary_26t4_task2_synthesized_summary.pdf) |
 |  |  |  |  |  |  |  |
 | 26t2 | Biomedical Image Analysis | [x](https://files.gersteinlab.org/public-docs/2026/03.06/cbb752b26_26t2_final.pdf) |  |  |  | [26t2](https://files.gersteinlab.org/public-docs/2026/03.17/26t2_lecture_summary_26t2_task2_synthesized_summary.pdf) |
-| 26t5 | RNN+GNN |  |  |  |  |  |
-|  |  |  |  |  |  | [26t5](https://files.gersteinlab.org/public-docs/2026/03.17/26t5_lecture_summary_26t5_task2_synthesized_summary.pdf) |
+| 26t5 | RNN+GNN | [x](https://files.gersteinlab.org/public-docs/2026/03.06/CBB7520_26t5_WeihaoZhao.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.06/CBB7520_26t5_WeihaoZhao.pptx) |  |  | [26t5](https://files.gersteinlab.org/public-docs/2026/03.17/26t5_lecture_summary_26t5_task2_synthesized_summary.pdf) |
 | 26t6 | Gen AI | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pptx) |  |  |  |
+|  |  |  |  |  |  |  |
+| 26m12 | Deep Learning Advanced | [x](https://files.gersteinlab.org/public-docs/2026/03.23/cbb752_26m12.pdf) |  |  |  |  |
 
 
 <!-- ### Lecture Slide Pack
