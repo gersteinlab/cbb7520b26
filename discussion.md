@@ -132,18 +132,19 @@ The following two are short comments on the above paper. You should read these c
 
 ---
 
-<!-- 
-### Session 7, 3/27(Thur), 3/28(Fri), 3/31(Mon)
+
+### Session 7, 3/26(Thur), 3/27(Fri)
 
 #### Topic
-Additional Topics: Biomedical Image analysis / Multimodal learning
+* Deep Learning II
 
 #### Reading Assignment
 
-* Multimodal biomedical AI [[Link]](https://www.nature.com/articles/s41591-022-01981-2)
-* A visual–language foundation model for pathology image analysis using medical Twitter [[Link]](https://www.nature.com/articles/s41591-023-02504-3)
+* Transformers in single-cell omics: a review and new perspectivesI [[Link]](https://www.nature.com/articles/s41592-024-02353-z)
+* Simulating 500 million years of evolution with a language model [[Link]](https://www.science.org/doi/10.1126/science.ads0018)
 
 ---
+<!-- 
 
 ### Session 8,  4/3(Thur), 4/4(Fri), 4/7(Mon)
 
