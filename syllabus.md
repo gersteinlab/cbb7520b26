@@ -36,8 +36,8 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 |      |                                                                                                       |                       |                                                                          |                                                                                                                         |
 | 3/23 | Class Resume, 8:20AM                                                            |                        |                                  |                                                                                                                         |
 | 3/23 | Deep Learning Advanced                                                           | 26m12                  | <span style="color:silver">25m12a, 25m12b</span>                                 |                                                                                                                         |
-| 3/25 | Single cell                                                                     |                      | <span style="color:silver">25m9e, 25t1</span>                                   |                                                                                                                         |
-| 3/30 | Privacy                                                                    |                        | <span style="color:silver">25m11a,25m11b</span>                                   |                                                                                                                         |
+| 3/25 | Single cell                                                                     |  26h1                    | <span style="color:silver">25m9e, 25t1</span>                                   |                                                                                                                         |
+| 3/30 | Privacy                                                                    |    26h2                    | <span style="color:silver">25m11a,25m11b</span>                                   |                                                                                                                         |
 | 4/1  | MODELING 1 - Protein Simulation I                                                                   |                       | <span style="color:silver">25s1</span>                                   |                                                                                                                         |
 | 4/6 | MODELING 2 - Protein Simulation II                                                                     |                       | <span style="color:silver">25s2</span>                                   |                                                                                                                         |
 | 4/8 | Quiz on 2nd Half                                                                                      |                       |                                                                          |                                                                                                                         |
@@ -94,7 +94,8 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26t6 | Gen AI | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pptx) |  |  |  |
 |  |  |  |  |  |  |  |
 | 26m12 | Deep Learning Advanced | [x](https://files.gersteinlab.org/public-docs/2026/03.23/cbb752_26m12.pdf) |  |  |  |  |
-
+| 26h1 | Single Cell | [x](https://files.gersteinlab.org/public-docs/2026/03.29/cbb752_26h1.pdf) |  |  |  |  |
+| 26h2 | Privacy |  |  |  |  |  |
 
 <!-- ### Lecture Slide Pack
 
