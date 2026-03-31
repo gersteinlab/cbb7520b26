@@ -95,7 +95,7 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 |  |  |  |  |  |  |  |
 | 26m12 | Deep Learning Advanced | [x](https://files.gersteinlab.org/public-docs/2026/03.23/cbb752_26m12.pdf) |  |  |  |  |
 | 26h1 | Single Cell | [x](https://files.gersteinlab.org/public-docs/2026/03.29/cbb752_26h1.pdf) |  |  |  |  |
-| 26h2 | Privacy |  |  |  |  |  |
+| 26h2 | Privacy | [x](https://files.gersteinlab.org/public-docs/2026/03.30/cbb752_26h2.pdf) |  |  |  |  |
 
 <!-- ### Lecture Slide Pack
 
