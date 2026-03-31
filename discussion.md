@@ -144,19 +144,20 @@ The following two are short comments on the above paper. You should read these c
 * Simulating 500 million years of evolution with a language model [[Link]](https://www.science.org/doi/10.1126/science.ads0018)
 
 ---
-<!-- 
 
-### Session 8,  4/3(Thur), 4/4(Fri), 4/7(Mon)
+
+### Session 8,  4/2(Thur), 4/3(Fri)
 
 #### Topic
-* Deep learning I
+* Single cell
 
 #### Reading Assignment
-* A primer on deep learning in genomics [[PDF]](https://www.nature.com/articles/s41588-018-0295-5.pdf)
-* Deep learning for biology [[PDF]](https://www.nature.com/magazine-assets/d41586-018-02174-z/d41586-018-02174-z.pdf)
+* Temporal modelling using single-cell transcriptomics [[Link]](https://www.nature.com/articles/s41576-021-00444-7)
+* Single-cell landscape of immunological responses in patients with COVID-19 [[Link]](https://www.nature.com/articles/s41590-020-0762-x)
 
 
 ---
+<!-- 
 
 ### Session 9, 4/10(Thur), 4/11(Fri), 4/14(Mon)
 
