@@ -146,7 +146,7 @@ The following two are short comments on the above paper. You should read these c
 ---
 
 
-### Session 8,  4/2(Thur), 4/3(Fri)
+### Session 8,  4/9(Thur), 4/10(Fri)
 
 #### Topic
 * Single cell
