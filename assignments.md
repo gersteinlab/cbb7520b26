@@ -38,4 +38,6 @@ Supplementary files for programming version: [URL](http://files.gersteinlab.org/
 
 Release Date: Week of March 30th, 2026
 
-Due Date: April 28th
+Due Date: April 30th, 11:59pm
+
+link to HW3: [URL](https://files.gersteinlab.org/public-docs/2026/04.03/HW3.zip)
