@@ -5,7 +5,7 @@ layout: page
 
 ## Final Project
 
-Download the final project description [here](https://files.gersteinlab.org/public-docs/2026/03.05/CBB752_Final_Project_2026.pdf).  
+Download the final project description [here](https://files.gersteinlab.org/public-docs/2026/04.14/CBB752_Final_Project_2026.pdf).  (last update: April 14)
 See [here](https://docs.google.com/spreadsheets/d/1pCBkZhWy8iyIbt7yHFKVp7XBkYLcJERLLZqxzqpiM74/edit?gid=1387698087#gid=1387698087) for group assignments and assigned Chromosome (X or Y). 
 
 **Key Due Dates**:
