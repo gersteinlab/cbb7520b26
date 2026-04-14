@@ -144,56 +144,42 @@ The following two are short comments on the above paper. You should read these c
 * Simulating 500 million years of evolution with a language model [[Link]](https://www.science.org/doi/10.1126/science.ads0018)
 
 ---
+### Session 8, 4/2(Thur), 4/3(Fri)
+
+#### Topic 
+* Review Session for quiz 2
+
+#### Reading Assignment
+* none
+---
 
 
-### Session 8,  4/9(Thur), 4/10(Fri)
+### Session 9,  4/9(Thur), 4/10(Fri)
 
 #### Topic
 * Single cell
-
 #### Reading Assignment
 * Temporal modelling using single-cell transcriptomics [[Link]](https://www.nature.com/articles/s41576-021-00444-7)
 * Single-cell landscape of immunological responses in patients with COVID-19 [[Link]](https://www.nature.com/articles/s41590-020-0762-x)
 
 
 ---
-<!-- 
 
-### Session 9, 4/10(Thur), 4/11(Fri), 4/14(Mon)
-
-* Single Cell
-
-#### Reading Assignment
-* Temporal modelling using single-cell transcriptomics [[Link]](https://www.nature.com/articles/s41576-021-00444-7)
-* Single-cell landscape of immunological responses in patients with COVID-19 [[Link]](https://www.nature.com/articles/s41590-020-0762-x)
-
-
-#### Topic
-* Deep learning II
-
-#### Reading Assignment
-* Artificial intelligence powers protein-folding predictions [[Link]](https://www.nature.com/articles/d41586-021-03499-y)
-* Computed structures of core eukaryotic protein complexes [[Link]](https://www.science.org/doi/10.1126/science.abm4805)
-
----
-
-### Session 10, 4/17(Thur), 4/18(Fri), 4/21(Mon)
+### Session 10, 4/16(Thur), 4/17(Fri)
 
 #### Topic
 * Protein structure and biophysics
 
 #### Reading Assignment
-* Zhou, AQ, O'Hern, CS, Regan, L (2011). Revisiting the Ramachandran plot from a new angle. Protein Sci., 20, 7:1166-71 [[PDF]](http://jamming.research.yale.edu/files/papers/rama.pdf)
-* Dill KA, Ozkan SB, Shell MS, Weikl TR. (2008) The Protein Folding Problem. Annu Rev Biophys,9, 37:289-316. PMID: 2443096. [[PDF]](http://www.gersteinlab.org/courses/452/10-spring/pdf/proteinFolding.pdf) -->
+* Accurate structure prediction of biomolecular interactions with AlphaFold 3  [[PDF]](https://www.nature.com/articles/s41586-024-07487-w)
+* Flexibility-conditioned protein structure design with flow matching [[PDF]](https://arxiv.org/abs/2508.18211) 
 
-<!-- ---
-
-### Session 11, 4/27 or 4/28
+---
+### Session 11, 4/23 or 4/24
 
 #### Topic
 * Final Project Presentations
-* Help session on HW 2 / final project
 
 #### Reading Assignment
 * (no reading assignment this week)
-  --> 
+
