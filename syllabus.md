@@ -93,11 +93,11 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26t5 | RNN+GNN | [x](https://files.gersteinlab.org/public-docs/2026/03.06/CBB7520_26t5_WeihaoZhao.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.06/CBB7520_26t5_WeihaoZhao.pptx) |  |  | [26t5](https://files.gersteinlab.org/public-docs/2026/03.17/26t5_lecture_summary_26t5_task2_synthesized_summary.pdf) |
 | 26t6 | Gen AI | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pdf) | [x](https://files.gersteinlab.org/public-docs/2026/03.10/cbb752b26_26t6.pptx) |  | [26t6](https://files.gersteinlab.org/public-docs/2026/04.06/cbb752-26t6-GenAI.mp4) | [26t6](https://files.gersteinlab.org/public-docs/2026/04.01/26t6_lecture_summary_26t6_task2_synthesized_summary.pdf) |
 |  |  |  |  |  |  |  |
-| 26m12 | Deep Learning Advanced | [x](https://files.gersteinlab.org/public-docs/2026/03.23/cbb752_26m12.pdf) |  |  |  |  |
+| 26m12 | Deep Learning Advanced | [x](https://files.gersteinlab.org/public-docs/2026/03.23/cbb752_26m12.pdf) |  |  |  | [26m12](https://files.gersteinlab.org/public-docs/2026/04.28/26m12_lecture_summary_26m12_task2_synthesized_summary.pdf) |
 | 26h1 | Single Cell | [x](https://files.gersteinlab.org/public-docs/2026/03.29/cbb752_26h1.pdf) |  |  | [26h1](https://files.gersteinlab.org/public-docs/2026/04.06/cbb752-26h1-SingleCell.mp4) |  |
-| 26h2 | Privacy | [x](https://files.gersteinlab.org/public-docs/2026/03.30/cbb752_26h2.pdf) |  |  | [26h2](https://files.gersteinlab.org/public-docs/2026/04.06/cbb752-26h2-Privacy.mp4) |  |
+| 26h2 | Privacy | [x](https://files.gersteinlab.org/public-docs/2026/03.30/cbb752_26h2.pdf) |  |  | [26h2](https://files.gersteinlab.org/public-docs/2026/04.06/cbb752-26h2-Privacy.mp4) | [26h2](https://files.gersteinlab.org/public-docs/2026/04.28/26h2_lecture_summary_26h2_task2_synthesized_summary.pdf) |
 |  |  |  |  |  |  |  |
-| 26s1 | MODELING 1 - Protein Simulation I |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/protein_structure.ppt) |  |  |  |
+| 26s1 | MODELING 1 - Protein Simulation I |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/protein_structure.ppt) |  |  | [26s1](https://files.gersteinlab.org/public-docs/2026/04.28/26s1_lecture_summary_{25s1}_task2_synthesized_summary.pdf) |
 | 26s2 | MODELING 2 - Protein Simulation II  |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/core_repacking.pptx) |  |  |  |
 
 <!-- ### Lecture Slide Pack
