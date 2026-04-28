@@ -97,7 +97,7 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26h1 | Single Cell | [x](https://files.gersteinlab.org/public-docs/2026/03.29/cbb752_26h1.pdf) |  |  | [26h1](https://files.gersteinlab.org/public-docs/2026/04.06/cbb752-26h1-SingleCell.mp4) | [26h1](https://files.gersteinlab.org/public-docs/2026/04.28/26h1_Lecture_Summary_Task2.docx)|
 | 26h2 | Privacy | [x](https://files.gersteinlab.org/public-docs/2026/03.30/cbb752_26h2.pdf) |  |  | [26h2](https://files.gersteinlab.org/public-docs/2026/04.06/cbb752-26h2-Privacy.mp4) | [26h2](https://files.gersteinlab.org/public-docs/2026/04.28/26h2_lecture_summary_26h2_task2_synthesized_summary.pdf) |
 |  |  |  |  |  |  |  |
-| 26s1 | MODELING 1 - Protein Simulation I |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/protein_structure.ppt) |  |  | [26s1](https://files.gersteinlab.org/public-docs/2026/04.28/26s1_lecture_summary_{25s1}_task2_synthesized_summary.pdf) |
+| 26s1 | MODELING 1 - Protein Simulation I |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/protein_structure.ppt) |  |  | [26s1](https://files.gersteinlab.org/public-docs/2026/04.28/26s1_lecture_summary_26s1_task2_synthesized_summary.pdf) |
 | 26s2 | MODELING 2 - Protein Simulation II  |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/core_repacking.pptx) |  |  |  |
 
 <!-- ### Lecture Slide Pack
