@@ -98,7 +98,10 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 | 26h2 | Privacy | [x](https://files.gersteinlab.org/public-docs/2026/03.30/cbb752_26h2.pdf) |  |  | [26h2](https://files.gersteinlab.org/public-docs/2026/04.06/cbb752-26h2-Privacy.mp4) | [26h2](https://files.gersteinlab.org/public-docs/2026/04.28/26h2_lecture_summary_26h2_task2_synthesized_summary.pdf) |
 |  |  |  |  |  |  |  |
 | 26s1 | MODELING 1 - Protein Simulation I |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/protein_structure.ppt) |  | [25s1](https://files.gersteinlab.org/public-docs/2025/04.03/0402_recordings_trimmed.mp4) | [26s1](https://files.gersteinlab.org/public-docs/2026/04.28/26s1_lecture_summary_26s1_task2_synthesized_summary.pdf) |
-| 26s2 | MODELING 2 - Protein Simulation II  |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/core_repacking.pptx) |  |  |  |
+| 26s2 | MODELING 2 - Protein Simulation II  |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/core_repacking.pptx) |  | [25s2](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4) |  |
+| 26s3 | MODELING 3 - Protein Simulation III |  |  |  | [25s3](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0422.mp4) |  |
+| 26s4 | MODELING 4 - Protein Simulation IV |  |  |  | [25s4](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0426.mp4) |  |
+| 26s5 | MODELING 5 - Protein Simulation V |  |  |  |  |  |
 
 <!-- ### Lecture Slide Pack
 
