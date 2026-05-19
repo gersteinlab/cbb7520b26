@@ -23,11 +23,11 @@ See [here](https://docs.google.com/spreadsheets/d/1pCBkZhWy8iyIbt7yHFKVp7XBkYLcJ
 ### Zimmerome Project Summary
 The final project will involve teams of students performing analysis on Carl Zimmer's personal genome. Here is a summary of previous classes' projects:
 
-[Zimmerome Project Summary](https://files.gersteinlab.org/public-docs/2025/05.13/zimmerone_projects_summary_2017-2025.pptx)
+[Zimmerome Project Summary](https://files.gersteinlab.org/public-docs/2026/05.07/zimmerone_projects_summary_2017-2026.pptx)
 
 [One-slide Summaries](https://files.gersteinlab.org/public-docs/2026/05.07/zimmerone_projects_summary_2017-2026.pptx)
 
-[Zimmerome Collective Results VCF](https://files.gersteinlab.org/public-docs/2025/05.13/2025_vcf.zip)
+[Zimmerome Collective Results VCF](https://files.gersteinlab.org/public-docs/2026/05.19/2026_final_project_Vcf.zip)
 
 ### Previous Years
 You can get a flavor for the Final Project by looking at the project from previous years, linked below.
