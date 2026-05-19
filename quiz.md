@@ -11,6 +11,7 @@ layout: page
 		<a href="http://cbb7520b26.gersteinlab.org/">Main Page</a>,
         <a href="https://files.gersteinlab.org/public-docs/2026/05.07/cbb7520-b26-quiz1-key.pdf">Quiz 1 key</a>,
 		<a href="https://files.gersteinlab.org/public-docs/2026/05.07/cbb7520-b26-quiz2-key.pdf">Quiz 2 key</a>,
+		<a href="https://files.gersteinlab.org/public-docs/2026/01.12/cbb7520b26-hw0.pdf">HW0</a>,
 		<a href="https://files.gersteinlab.org/public-docs/2026/05.19/cbb7520_hw1_26.zip">HW1</a>, 
 		<a href="https://files.gersteinlab.org/public-docs/2026/05.19/CBB7520b26HW2.zip">HW2</a>, 
 		<a href="https://files.gersteinlab.org/public-docs/2026/05.19/HW3.zip">HW3</a>, 
