@@ -25,7 +25,7 @@ The final project will involve teams of students performing analysis on Carl Zim
 
 [Zimmerome Project Summary](https://files.gersteinlab.org/public-docs/2025/05.13/zimmerone_projects_summary_2017-2025.pptx)
 
-[One-slide Summaries](https://files.gersteinlab.org/public-docs/2025/05.13/zimmerone_projects_summary_2017-2025.pptx)
+[One-slide Summaries](https://files.gersteinlab.org/public-docs/2026/05.07/zimmerone_projects_summary_2017-2026.pptx)
 
 [Zimmerome Collective Results VCF](https://files.gersteinlab.org/public-docs/2025/05.13/2025_vcf.zip)
 
