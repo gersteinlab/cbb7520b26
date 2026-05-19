@@ -99,10 +99,10 @@ Please see [last year's syllabus](http://cbb752b25.gersteinlab.org/syllabus) (wi
 |  |  |  |  |  |  |  |
 | 26s1 | MODELING 1 - Protein Simulation I |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/protein_structure.ppt) |  | [25s1](https://files.gersteinlab.org/public-docs/2025/04.03/0402_recordings_trimmed.mp4) | [26s1](https://files.gersteinlab.org/public-docs/2026/04.28/26s1_lecture_summary_26s1_task2_synthesized_summary.pdf) |
 | 26s2 | MODELING 2 - Protein Simulation II  |  | [x](https://files.gersteinlab.org/public-docs/2026/04.09/core_repacking.pptx) |  | [25s2](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4) | [26s2](https://files.gersteinlab.org/public-docs/2026/05.09/26s2lecture_summary_26s2_task2_synthesized_summary.pdf) |
-| 26s3 | MODELING 3 - Protein Simulation III |  |  |  | [25s3](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0422.mp4) | [26s3](https://files.gersteinlab.org/public-docs/2026/05.09/26s3lecture_summary_26s3_task2_synthesized_summary.pdf) |
+| 26s3 | MODELING 3 - Protein Simulation III |  | [x](https://files.gersteinlab.org/public-docs/2026/04.23/26s3.pptx) |  | [25s3](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0422.mp4) | [26s3](https://files.gersteinlab.org/public-docs/2026/05.09/26s3lecture_summary_26s3_task2_synthesized_summary.pdf) |
 | 26s4 | MODELING 4 - Protein Simulation IV |  |  |  | [25s4](http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0426.mp4) |  |
-| 26s5 | MODELING 5 - Protein Simulation V |  |  |  |  | [26s5](https://files.gersteinlab.org/public-docs/2026/05.09/26s5lecture_summary_26s5_task2_synthesized_summary.pdf) |
-| 26s6 | MODELING 6 - Protein Simulation VI |  |  |  |  | [26s6](https://files.gersteinlab.org/public-docs/2026/05.09/26s6ls.pdf) |
+| 26s5 | MODELING 5 - Protein Simulation V |  | [x](https://files.gersteinlab.org/public-docs/2026/04.23/26s5.pptx) |  |  | [26s5](https://files.gersteinlab.org/public-docs/2026/05.09/26s5lecture_summary_26s5_task2_synthesized_summary.pdf) |
+| 26s6 | MODELING 6 - Protein Simulation VI |  | [x](https://files.gersteinlab.org/public-docs/2026/04.23/26s6.pptx) |  |  | [26s6](https://files.gersteinlab.org/public-docs/2026/05.09/26s6ls.pdf) |
 
 <!-- ### Lecture Slide Pack
 
